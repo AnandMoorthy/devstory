@@ -1,0 +1,113 @@
+.Card-box {
+    background-color: #ffffff;
+    border-radius: 4px;
+    min-height: 27vh;
+    max-height: 30vh;
+    max-width: 53vh;
+    min-width: 53vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.Card-box:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.Card-inside-box {
+    display: flex;
+    flex-direction: column;
+}
+
+.Card-title-box {
+    padding: 0.5em 1em;
+}
+
+.Card-title {
+    font-size: 1.2em;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    float: left;
+}
+
+.Card-settings {
+    font-size: 0.8em;
+    float: right;
+    color: gray;
+    cursor: pointer;
+}
+
+.Card-story-box {
+    padding: 0.5em 0em;   
+}
+
+.Card-story {
+    padding: 0.7em 1.4em;
+    padding-top: 0.3em !important;
+    font-size: 0.9em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.Card-customize-box {
+}
+
+.Card-dropdown-box {
+    padding: 1em 1em;
+    max-width: 60vh;
+    float: left;
+}
+
+.Card-dropdown-save {
+    padding: 1em;
+    float: right;
+}
+
+.Card-dropdown-save-button {
+    background-color: tomato;
+    color: #ffffff;
+    border-radius: 1px;
+    float: right;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+.Card-dropdown-save-button:hover {
+    background-color: rgb(232, 114, 94);
+}
+
+.Card-dropdown {
+    max-height: 50px !important;
+}
+
+.Dropdown-menu {
+    max-height: 130px !important;
+}
+
+/* .Card-story:hover {
+    color: rgb(17, 133, 179);
+} */
+
+.product_hunt {
+    color: rgb(155, 59, 75)
+}
+
+.hacker_news {
+    color: tomato;
+}
+
+.coin_desk {
+    color: blue;
+}
+
+.tech_crunch {
+    color: red;
+}
+
+.reddit {
+    color: rgb(53, 130, 56)
+}

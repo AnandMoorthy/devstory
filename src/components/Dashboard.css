@@ -1,0 +1,71 @@
+.Dashboard {
+}
+
+.Dashboard-header {
+  display: flex;
+  flex-direction: row;
+  margin: 0 6em;
+}
+
+.Dashboard-header-bitcoin-logo {
+  float: right;
+  padding: 1em 0em;
+  color: #D4AF37;
+  font-size: 1.2em;
+}
+
+.Dashboard-header-bitcoin-price {
+  float: right;
+  padding: 1.2em 0em;
+  padding-left: 0.2em;
+  color: gray;
+  font-size: 1em;
+}
+
+.Dashboard-header-time {
+  padding: 1.2em 0em;
+  padding-right: 0.8em;
+}
+
+.Dashboard-header-settings {
+  float: right;
+}
+
+.Dashboard-header-settings-sun {
+  color: #FDB812;
+}
+
+.Dashboard-header-settings-moon {
+  color: rgb(82, 68, 68);
+}
+
+.Dashboard-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0em 1em;
+}
+
+
+.Dashboard-footer {
+  display: flex;
+  justify-content: center;
+}
+
+.Dashboard-love-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.Dashboard-footer-text{
+  color: gray;
+  padding: 0em 0.3em;
+}
+
+.Dashboard-footer-icon {
+  color: #FE0000;
+  padding-top: 0.1em;
+  font-size: 1em;
+}
