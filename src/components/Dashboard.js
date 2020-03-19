@@ -1,17 +1,23 @@
 import React from 'react';
 import { Card } from './Card';
-import { FaHeart, FaCoffee, FaRegSun, FaMoon, FaBitcoin } from "react-icons/fa";
+import { AppLoader } from './AppLoader';
+import { Modal } from './Modal';
+import { FaHeart, FaMoon, FaBitcoin, FaTimes, FaBars, FaSun } from "react-icons/fa";
 import './Dashboard.css';
 
 export class Dashboard extends React.Component {
     constructor(props) {
         super(props);
         this.updateCurrentStories = this.updateCurrentStories.bind(this);
+        this.openSettings = this.openSettings.bind(this);
+        this.nightMode = this.nightMode.bind(this);
         this.state = {
             error: null,
             stories: [],
+            openSettings: true,
             storiesLoaded: false,
-            nightMode: true,
+            availableStories: {},
+            nightMode: false,
             time: new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true }),
             currentStories: [
                 'product_hunt', 
@@ -35,6 +41,7 @@ export class Dashboard extends React.Component {
         console.log(toUpdate);
         currentStoryList = this.state.currentStories;
         currentIndex = parseInt(toUpdate[0], 10);
+        console.log(currentStoryList, currentIndex);
         currentStoryList[currentIndex] = toUpdate[1] 
         console.log(currentStoryList);
         this.setState({ currentStories: currentStoryList});
@@ -55,7 +62,8 @@ export class Dashboard extends React.Component {
                 });
                 this.setState({
                     bitcoin: result.bitcoin || null,
-                    storiesLoaded: true
+                    storiesLoaded: true,
+                    availableStories: result.available_stories
                 });
                 console.log("The state is", this.state);
             }, (err) => {
@@ -69,16 +77,24 @@ export class Dashboard extends React.Component {
     }
 
     async setOrloadLocalStorage() {
-        let localData;
+        let localData, nightMode, availableStories;
         localData = localStorage.getItem('currentStories');
-        if (!localData) {
+        nightMode = localStorage.getItem('nightMode');
+        availableStories = localStorage.getItem('availableStories');
+        if (!localData || !availableStories) {
             localStorage.setItem('currentStories', this.state.currentStories);
+            localStorage.setItem('availableStories', this.state.availableStories);
             this.setState({
-                currentStories: this.state.currentStories
+                currentStories: this.state.currentStories,
+                nightMode: nightMode || false,
+                availableStories: this.state.availableStories
             })
         } else {
+            console.log("OUT");
             this.setState({
-                currentStories: localData.split(',')
+                currentStories: localData.split(','),
+                nightMode: nightMode || false,
+                availableStories: availableStories || {}
             })
         }
     }
@@ -88,8 +104,8 @@ export class Dashboard extends React.Component {
             () => this.tick(),
             1000
           );
-        await this.setOrloadLocalStorage();
         await this.updateStories();
+        await this.setOrloadLocalStorage();
     }
 
     tick() {
@@ -97,59 +113,91 @@ export class Dashboard extends React.Component {
           time: new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
         });
       }
+    
+    openSettings() {
+        // this.setState({
+        //     openSettings: !this.state.openSettings
+        // })
+    }
 
     async componentWillUnmount() {
         clearInterval(this.timerID);
         // await this.updateStories();
     }
 
+    nightMode() {
+        localStorage.setItem('nightMode', !this.state.nightMode);
+        this.setState({
+            nightMode: !this.state.nightMode
+        });
+    }
+
     render () {
-        let nightMode;
-        if (this.state.nightMode) {
-            nightMode=<div className="Dashboard-header-settings-sun">
-                <FaRegSun />
+        let settings;
+        if (this.state.openSettings) {
+            settings = 
+            <div className="Dashboard-header-open-settings">
+                <div className="Dashboard-header-settings-close">
+                    <FaBars onClick={this.openSettings}/>
+                </div>
+                <div className="Dashboard-header-settings-about">
+                    About
+                </div>
+                <div className={this.state.nightMode? "Dashboard-header-settings-icon Dashboard-header-settings-icon-sun" : "Dashboard-header-settings-icon Dashboard-header-settings-icon-moon"}>
+                    {this.state.nightMode? <FaSun onClick={this.nightMode}/> : <FaMoon onClick={this.nightMode}/>}
+                </div>
             </div>
         } else {
-            nightMode=<div className="Dashboard-header-settings-moon">
-                <FaMoon />
-            </div>
+            settings = <FaBars onClick={this.openSettings}/>
         }
         if (this.state.storiesLoaded) {
             return (
-                <div className="Dashboard">
-                    <div className="Dashboard-header">
-                        <div className="Dashboard-header-time">
-                            {this.state.time}
-                        </div>
-                        <div className="Dashboard-header-bitcoin-logo">
-                            <FaBitcoin />
-                        </div>
-                        <div className="Dashboard-header-bitcoin-price">
-                            ${this.state.bitcoin}
-                        </div>
-                    </div>
-                    <div className="Dashboard-cards">
-                        {this.state.currentStories.map((story, i) =>
-                            <Card
-                            data={this.state[story] || []}
-                            title={story}
-                            key={i}
-                            id={i}
-                            updateFunction={this.updateCurrentStories}
-                            />
-                        )
-                        }
-                    </div>
-                    <div className="Dashboard-footer">
-                        <div className="Dashboard-love-box">
-                            <div className="Dashboard-footer-text">
-                                Made with
+                <div className={this.state.nightMode? "App-nightmode": "App-daymode"}>
+                    <div className="Dashboard">
+                        <div className="D-header">
+                            <div className="D-left">
+                                <div className="Dashboard-header-settings">
+                                    {settings}
+                                </div>
                             </div>
-                            <div className="Dashboard-footer-icon">
-                                <FaHeart />
+                            <div className="D-center">
+                                <div className="D-center-appname">
+                                    DevStory
+                                </div>
                             </div>
-                            <div className="Dashboard-footer-text">
-                                in India
+                            <div className="D-right">
+                                <div className="Dashboard-header-time">
+                                        {this.state.time}
+                                </div>
+                                <div className="Dashboard-header-bitcoin-logo">
+                                    <FaBitcoin />
+                                </div>
+                                <div className="Dashboard-header-bitcoin-price">
+                                    ${this.state.bitcoin}
+                                </div>
+                            </div>
+                        </div>
+                        <div className="Dashboard-cards">
+                            {this.state.currentStories.map((story, i) =>
+                                <Card
+                                data={this.state[story]? this.state[story].slice(0,5) : []}
+                                title={story}
+                                key={i}
+                                id={i}
+                                nightMode={this.state.nightMode}
+                                updateFunction={this.updateCurrentStories}
+                                />
+                            )
+                            }
+                        </div>
+                        <div className="Dashboard-footer">
+                            <div className="Dashboard-love-box">
+                                <div className={this.state.nightMode? "Dashboard-footer-text-nightmode": "Dashboard-footer-text-daymode"}>
+                                    Made with 3000
+                                </div>
+                                <div className="Dashboard-footer-icon">
+                                    <FaHeart />
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -157,9 +205,7 @@ export class Dashboard extends React.Component {
             )
         } else {
             return (
-                <div>
-                    <h1>Loading...</h1>
-                </div>
+                <AppLoader />
             )
         }
     }

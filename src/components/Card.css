@@ -1,8 +1,6 @@
 .Card-box {
-    background-color: #ffffff;
     border-radius: 4px;
     min-height: 27vh;
-    max-height: 30vh;
     max-width: 53vh;
     min-width: 53vh;
     display: flex;
@@ -10,6 +8,14 @@
     margin: 0.5em;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
+}
+
+.Card-box-daymode {
+    background-color: #ffffff;
+}
+
+.Card-box-nightmode {
+    background-color: rgb(97, 74, 74) ;
 }
 
 .Card-box:hover {
@@ -32,11 +38,35 @@
     float: left;
 }
 
+.Card-title-daymode {
+    color: black
+}
+
+.Card-title-nightmode {
+    color: wheat
+}
+
 .Card-settings {
     font-size: 0.8em;
     float: right;
-    color: gray;
     cursor: pointer;
+    display: flex;
+}
+
+.Card-settings-nightmode {
+    color: wheat;
+}
+
+.Card-settings-daymode {
+    color: gray;
+}
+
+.Card-settings-more {
+    padding-right: 0.5em;
+}
+
+.Card-settings-cog {
+    padding-top: 0.1em;
 }
 
 .Card-story-box {
@@ -51,6 +81,14 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     cursor: pointer;
+}
+
+.Card-story-daymode {
+    color: black
+}
+
+.Card-story-nightmode {
+    color: white
 }
 
 .Card-customize-box {
@@ -92,7 +130,7 @@
     color: rgb(17, 133, 179);
 } */
 
-.product_hunt {
+/* .product_hunt {
     color: rgb(155, 59, 75)
 }
 
@@ -110,4 +148,4 @@
 
 .reddit {
     color: rgb(53, 130, 56)
-}
+} */

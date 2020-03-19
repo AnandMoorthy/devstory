@@ -1,0 +1,5 @@
+.Modal-container {
+    display: flex;
+    margin: 1em;
+    justify-content: center;
+}
