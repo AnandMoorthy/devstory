@@ -20,15 +20,15 @@ export class Dashboard extends React.Component {
             nightMode: false,
             time: new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true }),
             currentStories: [
-                'product_hunt', 
-                'tech_crunch', 
-                'hacker_news', 
-                'mashable', 
-                'lifehacker',
-                'makeuseof', 
-                'the_next_web', 
-                'reddit', 
-                'coin_desk'
+                'Product Hunt', 
+                'Tech Crunch', 
+                'Hacker News', 
+                'Mashable', 
+                'Lifehacker',
+                'Makeuseof', 
+                'The Next Web', 
+                'Reddit', 
+                'Coin Desk'
             ]
 
         }

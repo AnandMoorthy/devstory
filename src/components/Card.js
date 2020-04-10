@@ -18,18 +18,18 @@ export class Card extends React.Component {
             currentStory: null,
             storyHelper: false,
             currentStories: [
-                "product_hunt",
-                "coin_desk",
-                "hacker_news",
-                "tech_crunch",
-                "reddit",
-                "the_next_web",
-                "mashable",
-                "gizmodo",
-                "lifehacker",
-                "makeuseof",
-                "cnet_news",
-                "medium"
+                'Product Hunt', 
+                'Tech Crunch', 
+                'Hacker News', 
+                'Mashable', 
+                'Lifehacker',
+                'Makeuseof', 
+                'The Next Web', 
+                'Reddit', 
+                'Coin Desk',
+                'Gizmodo',
+                'CNET News',
+                'Medium'
             ]
         }
     }
