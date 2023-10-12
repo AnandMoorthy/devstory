@@ -1,7 +1,8 @@
 {
   "name": "devstories_ui",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://anandmoorthy.github.io/devstory",
+  "private": false,
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.11.0",
@@ -12,6 +13,8 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
@@ -31,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
