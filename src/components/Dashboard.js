@@ -1,9 +1,13 @@
 import React from 'react';
 import { Card } from './Card';
 import { AppLoader } from './AppLoader';
-import { Modal } from './Modal';
-import { FaHeart, FaMoon, FaBitcoin, FaTimes, FaBars, FaSun } from "react-icons/fa";
+import { FaHeart, FaMoon, FaBitcoin, FaBars, FaSun } from "react-icons/fa";
 import './Dashboard.css';
+import logo from '../DevStory.svg';
+
+import result from './data.json';
+
+window.$availableCategories = 'This is the available Cats';
 
 export class Dashboard extends React.Component {
     constructor(props) {
@@ -18,16 +22,19 @@ export class Dashboard extends React.Component {
             storiesLoaded: false,
             availableStories: {},
             nightMode: false,
+            availableCategories: [],
             time: new Date().toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true }),
+            chromeExtensionLink: 'https://chrome.google.com/webstore/detail/devstory/dggekjoedccjighabcakmobiifmohfjd',
+            firefoxExtensionLink: 'https://addons.mozilla.org/en-US/firefox/addon/devstory/',
             currentStories: [
-                'Product Hunt', 
-                'Tech Crunch', 
-                'Hacker News', 
-                'Mashable', 
+                'The Next Web',
+                'Tech Crunch',
+                'Product Hunt',
+                'Hacker News',
+                'Mashable',
                 'Lifehacker',
-                'Makeuseof', 
-                'The Next Web', 
-                'Reddit', 
+                'Makeuseof',
+                'Reddit',
                 'Coin Desk'
             ]
 
@@ -38,64 +45,86 @@ export class Dashboard extends React.Component {
         let toUpdate, currentStoryList, currentIndex;
         event.preventDefault();
         toUpdate = event.target.id.split(',')
-        console.log(toUpdate);
         currentStoryList = this.state.currentStories;
         currentIndex = parseInt(toUpdate[0], 10);
-        console.log(currentStoryList, currentIndex);
         currentStoryList[currentIndex] = toUpdate[1] 
-        console.log(currentStoryList);
         this.setState({ currentStories: currentStoryList});
         localStorage.setItem('currentStories', currentStoryList);
         await this.updateStories();
     }
 
+    // async updateStories() {
+    //     fetch(`https://api.devstory.tech/dashboard/?data=${this.state.currentStories}`)
+    //     .then(res => res.json())
+    //     .then(
+    //         (result) => {
+    //             result.data.forEach(story => {
+    //                 this.setState({
+    //                     [story.name]: story.data,
+    //                 })
+    //             });
+    //             let availableCategories = [];
+    //             if(result.available_stories) {
+    //                 availableCategories = Object.keys(result.available_stories);
+    //             }
+    //             localStorage.setItem('availableStories', JSON.stringify(result.available_stories));
+    //             localStorage.setItem('availableCategories', availableCategories);
+    //             this.setState({
+    //                 bitcoin: result.bitcoin || null,
+    //                 storiesLoaded: true,
+    //                 availableStories: result.available_stories,
+    //                 availableCategories: availableCategories
+    //             });
+    //         }, (err) => {
+    //             console.log("Error?");
+    //             console.log(err);
+    //             this.setState({
+    //                 error: 'This is the error'
+    //             });
+    //         }
+    //     )
+    // }
+
     async updateStories() {
-        fetch(`http://localhost:8000/dashboard/?data=${this.state.currentStories}`)
-        .then(res => res.json())
-        .then(
-            (result) => {
-                console.log("Az");
-                result.data.forEach(story => {
-                    this.setState({
-                        [story.name]: story.data,
-                    })
-                });
-                this.setState({
-                    bitcoin: result.bitcoin || null,
-                    storiesLoaded: true,
-                    availableStories: result.available_stories
-                });
-                console.log("The state is", this.state);
-            }, (err) => {
-                console.log("Error?");
-                console.log(err);
-                this.setState({
-                    error: 'This is the error'
-                })
-            }
-        )
+        result.data.forEach(story => {
+            this.setState({
+                [story.name]: story.data,
+            })
+        });
+        let availableCategories = [];
+        if(result.available_stories) {
+            availableCategories = Object.keys(result.available_stories);
+        }
+        localStorage.setItem('availableStories', JSON.stringify(result.available_stories));
+        localStorage.setItem('availableCategories', availableCategories);
+        this.setState({
+            bitcoin: result.bitcoin || null,
+            storiesLoaded: true,
+            availableStories: result.available_stories,
+            availableCategories: availableCategories
+        });
     }
 
     async setOrloadLocalStorage() {
-        let localData, nightMode, availableStories;
+        let localData, nightMode, availableStories, availableCategories;
         localData = localStorage.getItem('currentStories');
         nightMode = localStorage.getItem('nightMode');
         availableStories = localStorage.getItem('availableStories');
-        if (!localData || !availableStories) {
+        availableCategories = localStorage.getItem('availableCategories');
+        nightMode = nightMode || false;
+        if (!localData) {
             localStorage.setItem('currentStories', this.state.currentStories);
-            localStorage.setItem('availableStories', this.state.availableStories);
             this.setState({
                 currentStories: this.state.currentStories,
-                nightMode: nightMode || false,
-                availableStories: this.state.availableStories
-            })
+                nightMode: JSON.parse(nightMode)
+            });
         } else {
-            console.log("OUT");
             this.setState({
                 currentStories: localData.split(','),
-                nightMode: nightMode || false,
-                availableStories: availableStories || {}
-            })
+                nightMode: JSON.parse(nightMode),
+                availableStories: availableStories || {},
+                availableCategories: availableCategories
+            });
         }
     }
 
@@ -104,8 +133,8 @@ export class Dashboard extends React.Component {
             () => this.tick(),
             1000
           );
-        await this.updateStories();
         await this.setOrloadLocalStorage();
+        await this.updateStories();
     }
 
     tick() {
@@ -137,11 +166,34 @@ export class Dashboard extends React.Component {
         if (this.state.openSettings) {
             settings = 
             <div className="Dashboard-header-open-settings">
-                <div className="Dashboard-header-settings-close">
-                    <FaBars onClick={this.openSettings}/>
-                </div>
-                <div className="Dashboard-header-settings-about">
-                    About
+                <div className="Dashboard-header">
+                    <div
+                        className="Dashboard-header-settings-about"
+                        onClick={ ()=> window.open("https://devstory.tech/about", "_blank")}
+                    >
+                        About
+                    </div>
+                    <div
+                        className="Dashboard-header-settings-extension"
+                        >
+                        <div>
+                            Extension
+                        </div>
+                        <div className="Dashboard-header-settings-extension-content">
+                            <div
+                                className="Dashboard-header-extension-content-list"
+                                onClick={ ()=> window.open(this.state.firefoxExtensionLink, "_blank")}
+                            >
+                                Firefox
+                            </div>
+                            <div
+                                className="Dashboard-header-extension-content-list"
+                                onClick={ ()=> window.open(this.state.chromeExtensionLink, "_blank")}
+                            >
+                                Chrome
+                            </div>
+                        </div>
+                    </div>
                 </div>
                 <div className={this.state.nightMode? "Dashboard-header-settings-icon Dashboard-header-settings-icon-sun" : "Dashboard-header-settings-icon Dashboard-header-settings-icon-moon"}>
                     {this.state.nightMode? <FaSun onClick={this.nightMode}/> : <FaMoon onClick={this.nightMode}/>}
@@ -161,13 +213,13 @@ export class Dashboard extends React.Component {
                                 </div>
                             </div>
                             <div className="D-center">
-                                <div className="D-center-appname">
-                                    DevStory
+                                <div>
+                                    <img src={logo} width={80} alt="DevStory Logo"/>
                                 </div>
                             </div>
                             <div className="D-right">
                                 <div className="Dashboard-header-time">
-                                        {this.state.time}
+                                    {this.state.time}
                                 </div>
                                 <div className="Dashboard-header-bitcoin-logo">
                                     <FaBitcoin />
@@ -177,20 +229,20 @@ export class Dashboard extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="Dashboard-cards">
+                        <div className={this.state.nightMode? "Dashboard-cards-nightmode": "Dashboard-cards-daymode"}>
                             {this.state.currentStories.map((story, i) =>
                                 <Card
-                                data={this.state[story]? this.state[story].slice(0,5) : []}
-                                title={story}
-                                key={i}
-                                id={i}
-                                nightMode={this.state.nightMode}
-                                updateFunction={this.updateCurrentStories}
+                                    data={this.state[story]? this.state[story] : []}
+                                    title={story}
+                                    key={i}
+                                    id={i}
+                                    nightMode={this.state.nightMode}
+                                    updateFunction={this.updateCurrentStories}
                                 />
                             )
                             }
                         </div>
-                        <div className="Dashboard-footer">
+                        <div className={this.state.nightMode ? "Dashboard-footer-nightmode" : "Dashboard-footer-daymode"}>
                             <div className="Dashboard-love-box">
                                 <div className={this.state.nightMode? "Dashboard-footer-text-nightmode": "Dashboard-footer-text-daymode"}>
                                     Made with 3000

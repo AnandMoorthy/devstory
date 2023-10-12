@@ -1,0 +1,1935 @@
+{
+    "message": "Success",
+    "data": [
+        {
+            "name": "Product Hunt",
+            "data": [
+                {
+                    "title": "Bear This News",
+                    "link": "https://www.producthunt.com/posts/bear-this-news"
+                },
+                {
+                    "title": "Deta Space",
+                    "link": "https://www.producthunt.com/posts/deta-space"
+                },
+                {
+                    "title": "Mobilecn UI",
+                    "link": "https://www.producthunt.com/posts/mobilecn-ui"
+                },
+                {
+                    "title": "LeadBlitz",
+                    "link": "https://www.producthunt.com/posts/leadblitz"
+                },
+                {
+                    "title": "Motifalign",
+                    "link": "https://www.producthunt.com/posts/motifalign"
+                },
+                {
+                    "title": "Ventora",
+                    "link": "https://www.producthunt.com/posts/ventora"
+                },
+                {
+                    "title": "Events",
+                    "link": "https://www.producthunt.com/posts/events-2"
+                },
+                {
+                    "title": "Fryda",
+                    "link": "https://www.producthunt.com/posts/fryda"
+                },
+                {
+                    "title": "Image Slider Generator",
+                    "link": "https://www.producthunt.com/posts/image-slider-generator"
+                },
+                {
+                    "title": "RailsReviews",
+                    "link": "https://www.producthunt.com/posts/railsreviews"
+                },
+                {
+                    "title": "AppManager",
+                    "link": "https://www.producthunt.com/posts/appmanager"
+                },
+                {
+                    "title": "Scalez",
+                    "link": "https://www.producthunt.com/posts/scalez"
+                },
+                {
+                    "title": "Dyva - Coming Soon",
+                    "link": "https://www.producthunt.com/posts/dyva-coming-soon"
+                },
+                {
+                    "title": "AnimeGenius",
+                    "link": "https://www.producthunt.com/posts/animegenius"
+                },
+                {
+                    "title": "Drakon",
+                    "link": "https://www.producthunt.com/posts/drakon"
+                },
+                {
+                    "title": "CreatorMind",
+                    "link": "https://www.producthunt.com/posts/creatormind"
+                },
+                {
+                    "title": "Share My Stack",
+                    "link": "https://www.producthunt.com/posts/share-my-stack"
+                },
+                {
+                    "title": "Self-completing Tasks",
+                    "link": "https://www.producthunt.com/posts/self-completing-tasks"
+                },
+                {
+                    "title": "Feedcoyote: Freelance Network",
+                    "link": "https://www.producthunt.com/posts/feedcoyote-freelance-network"
+                },
+                {
+                    "title": "SpaceAgent",
+                    "link": "https://www.producthunt.com/posts/spaceagent"
+                }
+            ]
+        },
+        {
+            "name": "Coin Desk",
+            "data": [
+                {
+                    "title": "Crypto Bank Xapo Snags European Broker License, Will Offer Stocks Like Apple",
+                    "link": "https://www.coindesk.com/business/2023/10/11/crypto-bank-xapo-snags-european-broker-license-will-offer-stocks-like-apple/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "LIVE: Caroline Ellison Starts Day 2 of Testimony Against Sam Bankman-Fried",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/live-caroline-ellison-starts-day-2-of-testimony-against-sam-bankman-fried/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "EU Markets Regulator Warns of DeFi\u2019s \u2018Serious Risks\u2019",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/eu-markets-regulator-warns-of-defis-serious-risks/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Tornado Cash Trading Volumes Nosedived 90% After U.S. Sanctions",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/tornado-cash-trading-volumes-nosedived-90-after-us-sanctions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Crypto Prime Broker Membrane Labs Raises $20M From Brevan Howard, Point72 and Jane Street",
+                    "link": "https://www.coindesk.com/business/2023/10/11/crypto-prime-broker-membrane-labs-raises-20m-from-brevan-howard-point72-and-jane-street/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "First Mover Americas: JPMorgan Goes Live With First Blockchain-Based Collateral Settlement",
+                    "link": "https://www.coindesk.com/markets/2023/10/11/first-mover-americas-jpmorgan-goes-live-with-first-blockchain-based-collateral-settlement/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "U.S. State Regulators Intervene in Coinbase\u2019s Unregistered Securities Case",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/us-state-regulators-intervene-in-coinbases-unregistered-securities-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Bitcoin Is Fundamentally Different From Other Cryptocurrencies: Fidelity Digital Assets",
+                    "link": "https://www.coindesk.com/markets/2023/10/11/bitcoin-is-fundamentally-different-from-other-cryptocurrencies-fidelity-digital-assets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Ellison Was CEO But SBF Was Still Boss at Alameda, Her Testimony Suggests",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/ellison-was-ceo-but-sbf-was-still-boss-at-alameda-her-testimony-suggests/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Crypto HODLers Stash Bitcoin Worth $1.35B Each Month, Onchain Data Show",
+                    "link": "https://www.coindesk.com/markets/2023/10/11/hodlers-stash-btc-worth-135b-each-month-onchain-data-show/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "JPMorgan Debuts Tokenized BlackRock Shares as Collateral with Barclays",
+                    "link": "https://www.coindesk.com/business/2023/10/11/jpmorgan-debuts-tokenized-blackrock-shares-as-collateral-with-barclays/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Bitcoin Slips to $27K as Escalating Hamas-Israel Conflict Dampens Investor Confidence",
+                    "link": "https://www.coindesk.com/markets/2023/10/11/bitcoin-slips-to-27k-as-escalating-hamas-israel-conflict-dampens-investor-confidence/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "WOO Network Buys Back Shares and Tokens From Bankrupt Three Arrows Capital",
+                    "link": "https://www.coindesk.com/business/2023/10/11/woo-network-buys-back-shares-and-tokens-from-bankrupt-three-arrows-capital/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Sam Bankman-Fried Wanted to Close Alameda in 2022, Unpublished Posts Show",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/sam-bankman-fried-wanted-to-close-alameda-in-2022-unpublished-posts-show/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "SBF's Lawyers Want to Ask Caroline Ellison About FTX's Anthropic AI Stake",
+                    "link": "https://www.coindesk.com/policy/2023/10/11/sbfs-lawyers-want-to-ask-caroline-ellison-about-ftxs-anthropic-ai-stake/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Tokenized RWA Platform Untangled Goes Live, Gets $13.5M Funding to Bring Private Credit On-Chain",
+                    "link": "https://www.coindesk.com/business/2023/10/10/tokenized-rwa-platform-untangled-goes-live-gets-135m-funding-to-bring-private-credit-on-chain/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "U.K. Group Calls for NFT Copyright Infringement Safeguards and Code of Conduct",
+                    "link": "https://www.coindesk.com/policy/2023/10/10/uk-group-calls-for-nft-copyright-infringement-safeguards-and-code-of-conduct/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Bitcoin Hovers Above $27,000 as U.S. Stocks Advance",
+                    "link": "https://www.coindesk.com/markets/2023/10/10/bitcoin-hovers-above-27000-as-us-stocks-advance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "Defending the Indefensible? Sam Bankman-Fried\u2019s Lawyers Deserve Better",
+                    "link": "https://www.coindesk.com/consensus-magazine/2023/10/10/defending-the-indefensible-sam-bankman-frieds-lawyers-deserve-better/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                },
+                {
+                    "title": "BlockFi Bankruptcy Judge Says He Wants 3AC\u2019s $284M Claim Resolved in Mediation",
+                    "link": "https://www.coindesk.com/policy/2023/10/10/blockfi-bankruptcy-judge-says-he-wants-3acs-284m-claim-resolved-in-mediation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines"
+                }
+            ]
+        },
+        {
+            "name": "Hacker News",
+            "data": [
+                {
+                    "title": "Bad Emacs Defaults",
+                    "link": "https://idiomdrottning.org/bad-emacs-defaults"
+                },
+                {
+                    "title": "Modern Pascal is still in the race (2022)",
+                    "link": "https://blog.synopse.info/?post/2022/11/26/Modern-Pascal-is-Still-in-the-Race"
+                },
+                {
+                    "title": "Farm in Kenya to produce fertilizer without using fossil fuels",
+                    "link": "https://e360.yale.edu/digest/small-green-ammonia-plant-farm-kenya"
+                },
+                {
+                    "title": "New Vulkan Documentation Website",
+                    "link": "https://docs.vulkan.org/"
+                },
+                {
+                    "title": "Log is the \"Pro\" in iPhone 15 Pro",
+                    "link": "https://prolost.com/blog/applelog"
+                },
+                {
+                    "title": "I'm Sorry I Bit You During My Job Interview",
+                    "link": "https://www.mcsweeneys.net/articles/im-sorry-i-bit-you-during-my-job-interview"
+                },
+                {
+                    "title": "We\u2019ll call it AI to sell it, machine learning to build it",
+                    "link": "https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine"
+                },
+                {
+                    "title": "Toxiproxy \u2013 simulate network and system conditions for chaos testing",
+                    "link": "https://github.com/Shopify/toxiproxy"
+                },
+                {
+                    "title": "Show HN: Speech Meter \u2013 Improve Your English Pronunciation",
+                    "link": "https://speechmeter.com/"
+                },
+                {
+                    "title": "Mistral 7B",
+                    "link": "https://arxiv.org/abs/2310.06825"
+                },
+                {
+                    "title": "The acute suicide crisis among veterinarians: 'You're always failing somebody'",
+                    "link": "https://www.bbc.com/worklife/article/20231010-the-acute-suicide-crisis-among-veterinarians-youre-always-going-to-be-failing-somebody"
+                },
+                {
+                    "title": "People are happier in a walkable neighborhood: the US community that banned cars",
+                    "link": "https://www.theguardian.com/cities/2023/oct/11/culdesac-car-free-neighborhood-tempe-arizona"
+                },
+                {
+                    "title": "Spacedrive \u2013 an open source cross-platform file explorer",
+                    "link": "https://github.com/spacedriveapp/spacedrive"
+                },
+                {
+                    "title": "The glEnd() of Zelda: Automatic 3Dification of NES Games (2016)",
+                    "link": "http://tom7.org/zelda/"
+                },
+                {
+                    "title": "Multifault earthquake threat for Seattle region revealed by mass tree mortality",
+                    "link": "https://www.science.org/doi/10.1126/sciadv.adh4973"
+                },
+                {
+                    "title": "Bookworm \u2013 the new version of Raspberry Pi OS",
+                    "link": "https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/"
+                },
+                {
+                    "title": "Open-source network emulators and simulators",
+                    "link": "https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/"
+                },
+                {
+                    "title": "Beej's Guide to Network Programming (1994-2023)",
+                    "link": "https://beej.us/guide/bgnet/html/"
+                },
+                {
+                    "title": "Cypress.io Blocking of Sorry Cypress and Currents",
+                    "link": "https://currents.dev/posts/v13-blocking"
+                },
+                {
+                    "title": "Replit's new AI Model now available on Hugging Face",
+                    "link": "https://blog.replit.com/replit-code-v1_5"
+                }
+            ]
+        },
+        {
+            "name": "Tech Crunch",
+            "data": [
+                {
+                    "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
+                    "link": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html"
+                },
+                {
+                    "title": "Top 10 AI Content Generator & Writer Tools in 2022",
+                    "link": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html"
+                },
+                {
+                    "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
+                    "link": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html"
+                },
+                {
+                    "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
+                    "link": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html"
+                },
+                {
+                    "title": "Most Frequently Asked Questions About Affiliate Marketing",
+                    "link": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html"
+                },
+                {
+                    "title": "What is Blockchain: Everything You Need to Know (2022)",
+                    "link": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html"
+                },
+                {
+                    "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+                    "link": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html"
+                },
+                {
+                    "title": "Sellfy Review 2022: How Good Is This Ecommerce Platform?",
+                    "link": "https://techncruncher.blogspot.com/2022/03/sellfy-review-2022-how-good-is-this.html"
+                },
+                {
+                    "title": "Ahrefs vs SEMrush: Which SEO Tool Should You Use?",
+                    "link": "https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html"
+                },
+                {
+                    "title": "Top 10 Best PLR(Private Label Rights)  Websites | Which One You Should Join in 2022?",
+                    "link": "https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html"
+                },
+                {
+                    "title": "Canva Review 2022: Details, Pricing & Features",
+                    "link": "https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html"
+                },
+                {
+                    "title": "Top 7 Best Wordpress Plugin Of All Time",
+                    "link": "https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html"
+                },
+                {
+                    "title": "Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+                    "link": "https://techncruncher.blogspot.com/2022/02/ginger-vs-grammarly-which-grammar.html"
+                },
+                {
+                    "title": "Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)",
+                    "link": "https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html"
+                },
+                {
+                    "title": "10 Best Chrome Extensions That Are Perfect for Everyone",
+                    "link": "https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html"
+                },
+                {
+                    "title": "Most Frequently Asked Questions About  Email Marketing",
+                    "link": "https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html"
+                },
+                {
+                    "title": "7 Free Websites Every Content Creator Needs to Know",
+                    "link": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html"
+                },
+                {
+                    "title": "Top 9 Free AI Tools That Make Your Life Easier",
+                    "link": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html"
+                }
+            ]
+        },
+        {
+            "name": "Reddit",
+            "data": [
+                {
+                    "title": "Match Thread: 9th Match - India vs Afghanistan",
+                    "link": "https://www.reddit.com/r/Cricket/comments/175805z/match_thread_9th_match_india_vs_afghanistan/"
+                },
+                {
+                    "title": "Muhammad Rizwan thanking crowds at Hyderabad for hospitality",
+                    "link": "https://www.reddit.com/r/Cricket/comments/1758wti/muhammad_rizwan_thanking_crowds_at_hyderabad_for/"
+                },
+                {
+                    "title": "Update for IND vs Pak World Cup match.",
+                    "link": "https://www.reddit.com/r/Cricket/comments/1753537/update_for_ind_vs_pak_world_cup_match/"
+                },
+                {
+                    "title": "Alia shares her husband who was her boyfriend\u2019s song.",
+                    "link": "https://www.reddit.com/r/BollyBlindsNGossip/comments/1758k28/alia_shares_her_husband_who_was_her_boyfriends/"
+                },
+                {
+                    "title": "Virat Kohli has a Pavillion named after him, while he's still playing for India ........",
+                    "link": "https://www.reddit.com/r/Cricket/comments/17587yl/virat_kohli_has_a_pavillion_named_after_him_while/"
+                },
+                {
+                    "title": "What is a sexual fantasy you can never act out on with your real partner?",
+                    "link": "https://www.reddit.com/r/AskReddit/comments/175au5p/what_is_a_sexual_fantasy_you_can_never_act_out_on/"
+                },
+                {
+                    "title": "\"We are with Palestine because they are Muslims\" - street interview of random people in Hyderabad.",
+                    "link": "https://www.reddit.com/r/IndiaSpeaks/comments/17596ec/we_are_with_palestine_because_they_are_muslims/"
+                },
+                {
+                    "title": "What are some crazy names you have for your WhatsApp groups?",
+                    "link": "https://www.reddit.com/r/indiasocial/comments/1754if4/what_are_some_crazy_names_you_have_for_your/"
+                },
+                {
+                    "title": "New lafda",
+                    "link": "https://www.reddit.com/r/InstaCelebsGossip/comments/1759h3r/new_lafda/"
+                },
+                {
+                    "title": "Counter-Strike 2 Has Become Valve's Worst-Rated Game Ever - Insider Gaming",
+                    "link": "https://www.reddit.com/r/gaming/comments/1759mgs/counterstrike_2_has_become_valves_worstrated_game/"
+                },
+                {
+                    "title": "Need an advice how to reverse scam",
+                    "link": "https://www.reddit.com/r/delhi/comments/175abaw/need_an_advice_how_to_reverse_scam/"
+                },
+                {
+                    "title": "What rizz is this?",
+                    "link": "https://www.reddit.com/r/Indiangirlsontinder/comments/175aym4/what_rizz_is_this/"
+                },
+                {
+                    "title": "This has got to be one of the worst runway walks i have ever seen",
+                    "link": "https://www.reddit.com/r/InstaCelebsGossip/comments/17586hf/this_has_got_to_be_one_of_the_worst_runway_walks/"
+                },
+                {
+                    "title": "Gifts you received when you turned 18?",
+                    "link": "https://www.reddit.com/r/IndianTeenagers/comments/1758kbm/gifts_you_received_when_you_turned_18/"
+                },
+                {
+                    "title": "WOR: WWE have decided not to hire CM Punk",
+                    "link": "https://www.reddit.com/r/SquaredCircle/comments/17598cq/wor_wwe_have_decided_not_to_hire_cm_punk/"
+                },
+                {
+                    "title": "nano twist",
+                    "link": "https://www.reddit.com/r/CarsIndia/comments/1755yel/nano_twist/"
+                },
+                {
+                    "title": "How im trynna be",
+                    "link": "https://www.reddit.com/r/indiasocial/comments/1758qdd/how_im_trynna_be/"
+                },
+                {
+                    "title": "'Horrific': Israeli forces discover bodies of 40 babies murdered by Hamas",
+                    "link": "https://www.reddit.com/r/IndiaSpeaks/comments/175a57s/horrific_israeli_forces_discover_bodies_of_40/"
+                },
+                {
+                    "title": "Don't overtake on curve",
+                    "link": "https://www.reddit.com/r/CarsIndia/comments/1755us4/dont_overtake_on_curve/"
+                },
+                {
+                    "title": "bro is trying to help with his water bottle",
+                    "link": "https://www.reddit.com/r/indianbikes/comments/17560vu/bro_is_trying_to_help_with_his_water_bottle/"
+                }
+            ]
+        },
+        {
+            "name": "The Next Web",
+            "data": [
+                {
+                    "title": "Taiwan\u2019s semiconductor suppliers plan to invest in European chip factories",
+                    "link": "https://thenextweb.com/news/taiwans-semiconductor-suppliers-invest-european-chip-factories"
+                },
+                {
+                    "title": "Google\u2019s AI could soon consume as much electricity as Ireland, study finds",
+                    "link": "https://thenextweb.com/news/googles-ai-could-consume-as-much-electricity-as-ireland"
+                },
+                {
+                    "title": "Croatia wants to turn superhot underground lake into 16MW power plant",
+                    "link": "https://thenextweb.com/news/croatia-geothermal-energy-plant"
+                },
+                {
+                    "title": "Cambridge aims to double its unicorns, plans support scheme for founders",
+                    "link": "https://thenextweb.com/news/cambridge-double-unicorns-support-scheme-for-founders"
+                },
+                {
+                    "title": "5 space-age technologies that the EU just launched into orbit",
+                    "link": "https://thenextweb.com/news/eu-space-mission-tech-orbit-testing"
+                },
+                {
+                    "title": "Even world\u2019s biggest offshore wind farm can\u2019t mask UK\u2019s green energy failures",
+                    "link": "https://thenextweb.com/news/worlds-biggest-offshore-wind-farm-sunak-green-energy"
+                },
+                {
+                    "title": "What\u2019s behind TikTok\u2019s #lazygirljobs trend \u2014 and do you actually want one?",
+                    "link": "https://thenextweb.com/news/tiktoks-lazygirljobs-trend"
+                },
+                {
+                    "title": "Gaia spacecraft finds new jigsaw pieces for puzzle of the Universe",
+                    "link": "https://thenextweb.com/news/esa-gaia-new-space-universe-data"
+                },
+                {
+                    "title": "French startup bags \u20ac40M for unique CO2 battery recycling tech",
+                    "link": "https://thenextweb.com/news/french-startup-40mn-co2-battery-recycling-tech"
+                },
+                {
+                    "title": "UK\u2019s first exascale supercomputer project goes to Edinburgh",
+                    "link": "https://thenextweb.com/news/uk-first-exascale-computer-edinburgh"
+                }
+            ]
+        },
+        {
+            "name": "Mashable",
+            "data": [
+                {
+                    "title": "Score a $100 discount on the almost newly-released iRobot Roomba Combo i5",
+                    "link": "https://mashable.com/article/best-prime-day-deal-irobot-roomba-combo-i5"
+                },
+                {
+                    "title": "Period care brands are reimbursing your tampon taxes. Here's how to cash in.",
+                    "link": "https://mashable.com/article/tampon-tax-back-coalition-will-reimburse-your-period-purchases"
+                },
+                {
+                    "title": "Should you get an Echo or Echo Dot? We compare the two.",
+                    "link": "https://mashable.com/deals/echo-vs-echo-dot"
+                },
+                {
+                    "title": "Learn Big Data Visualization with this course bundle for $35",
+                    "link": "https://mashable.com/deals/oct-11-data-visualization-training-bundle"
+                },
+                {
+                    "title": "How much of your relationship should you post on social media?",
+                    "link": "https://mashable.com/article/relationship-posting-social-media"
+                },
+                {
+                    "title": "200+ October Prime Day deals are live on Amazon: AirPods, iPads, Nintendo Switch, and much more",
+                    "link": "https://mashable.com/article/amazon-prime-day-2023-day-2"
+                },
+                {
+                    "title": "What is friendship anxiety and why is everyone talking about it?",
+                    "link": "https://mashable.com/article/friendship-anxiety"
+                },
+                {
+                    "title": "Uber Eats will now let you order from multiple locations at once without fees",
+                    "link": "https://mashable.com/article/uber-eats-delivery-multiple-places-fees"
+                },
+                {
+                    "title": "This adjustable dumbbell set flexes $165 savings for Prime Day",
+                    "link": "https://mashable.com/article/prime-day-deal-power-block-adjustable-dumbbell-set"
+                },
+                {
+                    "title": "Multiple Roombas are 50% off, plus more robot vacuums on sale this Prime Day",
+                    "link": "https://mashable.com/article/best-prime-day-robot-vacuum-deals-2023"
+                },
+                {
+                    "title": "Get the Google Nest cam at its lowest-ever price on Prime Day",
+                    "link": "https://mashable.com/article/prime-day-deal-google-nest-camera"
+                },
+                {
+                    "title": "Self-emptying robot vacuums are 50% off for Prime Day \u2014 but not for much longer",
+                    "link": "https://mashable.com/article/early-prime-day-self-emptying-robot-vacuum-deals"
+                },
+                {
+                    "title": "Everything you need to know about October Prime Day: The competition, the top deals, and more",
+                    "link": "https://mashable.com/article/prime-day-everything-you-need-to-know"
+                },
+                {
+                    "title": "Walmart's anti-Prime Day sale is giving Amazon a run for its money. Here are the 40+ best deals.",
+                    "link": "https://mashable.com/article/walmart-prime-day-2023"
+                },
+                {
+                    "title": "The best Nintendo Switch deals of Prime Day 2, from games to holiday bundles",
+                    "link": "https://mashable.com/article/best-prime-day-nintendo-switch-deals-2023"
+                },
+                {
+                    "title": "Treat yourself to a Coleman tent, stove, and more outdoor gear on sale during Prime Day",
+                    "link": "https://mashable.com/article/best-prime-day-outdoor-deals-2023"
+                },
+                {
+                    "title": "Save $50 on the Shark Stick vacuum as Prime Day rolls into another day",
+                    "link": "https://mashable.com/article/prime-day-deal-shark-stick-vacuum"
+                },
+                {
+                    "title": "Save $300 on the iRobot Roomba s9+ robot vacuum this Prime Day",
+                    "link": "https://mashable.com/article/best-prime-day-roomba-robot-vacuum-deal"
+                },
+                {
+                    "title": "Lessons in chemistry: Why you should stream 'Moonlighting' right now",
+                    "link": "https://mashable.com/article/moonlighting-stream-hulu-bruce-willis-cybill-shepherd"
+                },
+                {
+                    "title": "The best Prime Day Lego deals are disappearing fast: Shop Star Wars, Marvel, Super Mario sets",
+                    "link": "https://mashable.com/article/prime-day-deal-lego-sets"
+                }
+            ]
+        },
+        {
+            "name": "Gizmodo",
+            "data": [
+                {
+                    "title": "FTC Proposes New Rule to Shed Light on Concert Ticket Junk Fees",
+                    "link": "https://gizmodo.com/ftc-rule-concert-ticket-junk-fees-ticketmaster-1850917460"
+                },
+                {
+                    "title": "Firefox Is Testing a New Feature to Weed Out Fake Customer Reviews",
+                    "link": "https://gizmodo.com/firefox-new-feature-fakespot-fake-customer-reviews-1850917619"
+                },
+                {
+                    "title": "Unpublished Tweets Show Sam Bankman-Fried Had Plans to Shutter Alameda in 2022",
+                    "link": "https://gizmodo.com/tweets-show-sbf-had-plans-to-shutter-alameda-in-2022-1850917572"
+                },
+                {
+                    "title": "Your Guide to October\u2019s Much-Anticipated \u2018Ring of Fire\u2019 Solar Eclipse",
+                    "link": "https://gizmodo.com/ring-fire-solar-eclipse-october-2023-how-to-see-1850891678"
+                },
+                {
+                    "title": "How to Recover a Photo You've Accidentally Deleted on Your Phone",
+                    "link": "https://gizmodo.com/how-recover-photo-accidentally-deleted-iphone-android-1850907439"
+                },
+                {
+                    "title": "After Spooky Glitch, Euclid \u2018Dark Universe\u2019 Space Telescope Is Back on Course",
+                    "link": "https://gizmodo.com/euclid-space-telescope-dark-matter-energy-glitch-patch-1850915895"
+                },
+                {
+                    "title": "Amazon Freevee and BBC Studios Launching Five New FAST Channels",
+                    "link": "https://gizmodo.com/amazon-freevee-bbc-studios-new-free-streaming-channels-1850914685"
+                },
+                {
+                    "title": "Watch Live as NASA Reveals What's Inside Asteroid Sample Canister",
+                    "link": "https://gizmodo.com/nasa-osiris-rex-asteroid-sample-reveal-bennu-1850915443"
+                },
+                {
+                    "title": "Prime Day Must-Have Halloween Party Essentials",
+                    "link": "https://gizmodo.com/amazon-prime-day-halloween-party-shopping-guide-1850916608"
+                },
+                {
+                    "title": "So Far, AI Is a Money Pit That Isn't Paying Off",
+                    "link": "https://gizmodo.com/github-copilot-ai-microsoft-openai-chatgpt-1850915549"
+                },
+                {
+                    "title": "19 Winning Wildlife Photos Show Moments of Heartbreak, Wonder, and Extreme Survival",
+                    "link": "https://gizmodo.com/wildlife-photographer-year-competition-2023-winners-1850914491"
+                },
+                {
+                    "title": "John Carpenter Isn\u2019t Full-On Directing These Days, but He's Open to It",
+                    "link": "https://gizmodo.com/john-carpenter-suburban-screams-peacock-directing-futur-1850916216"
+                },
+                {
+                    "title": "Adobe Unveils Special Symbol to Mark AI-Generated Content",
+                    "link": "https://gizmodo.com/adobe-content-credential-symbol-marks-ai-content-1850915790"
+                },
+                {
+                    "title": "10 Spooky Picks to Stream on Paramount+",
+                    "link": "https://gizmodo.com/paramount-plus-horror-streaming-pearl-scream-bodies-1850915522"
+                },
+                {
+                    "title": "Google Nest Features Return After Judge Throws Out Sonos Patent Case",
+                    "link": "https://gizmodo.com/google-nest-features-return-sonos-loses-patent-case-1850915792"
+                },
+                {
+                    "title": "Levi\u2019s CEO Suggests Wearing Your Jeans in the Shower to Help Save the Planet",
+                    "link": "https://gizmodo.com/levi-s-ceo-says-wear-jeans-in-the-shower-to-wash-them-1850915726"
+                },
+                {
+                    "title": "Google's Pixel 8 and 8 Pro are New, and Somewhat Improved",
+                    "link": "https://gizmodo.com/googles-pixel-8-and-8-pro-are-new-and-somewhat-improv-1850914789"
+                },
+                {
+                    "title": "Young Jedi Adventures Is Getting Some Pre-Trauma Star Wars Guest Stars",
+                    "link": "https://gizmodo.com/star-wars-young-jedi-adventures-loden-bell-maru-cameos-1850915693"
+                },
+                {
+                    "title": "Microsoft Calls Off OneDrive Photo-pocalypse",
+                    "link": "https://gizmodo.com/microsoft-walks-back-onedrive-photo-storage-limits-1850914895"
+                },
+                {
+                    "title": "4 Summer Movies You Probably Missed Just Got New Home Release Dates",
+                    "link": "https://gizmodo.com/indiana-jones-5-mission-impossible-7-ninja-turtles-film-1850915450"
+                }
+            ]
+        },
+        {
+            "name": "Lifehacker",
+            "data": [
+                {
+                    "title": "A Beginner\u2019s Guide to Playing Blackjack in a Casino Without Embarrassing Yourself",
+                    "link": "https://lifehacker.com/a-beginner-s-guide-to-playing-blackjack-in-a-casino-wit-1850913688"
+                },
+                {
+                    "title": "These Apps Are Secretly Cluttering Up Your Camera Roll",
+                    "link": "https://lifehacker.com/these-apps-are-secretly-cluttering-up-your-camera-roll-1850913660"
+                },
+                {
+                    "title": "Use the 'Production Effect' to Study More Effectively",
+                    "link": "https://lifehacker.com/use-the-production-effect-to-study-more-effectively-1850915123"
+                },
+                {
+                    "title": "All the Things You Should Never Clean With Vinegar",
+                    "link": "https://lifehacker.com/all-the-things-you-should-never-clean-with-vinegar-1850914553"
+                },
+                {
+                    "title": "How to Choose the Best Fall Fertilizer for Anything in Your Garden",
+                    "link": "https://lifehacker.com/how-to-choose-the-best-fall-fertilizer-for-anything-in-1850913755"
+                },
+                {
+                    "title": "Layer Your Bulbs in Planters to Get Months of Flowers",
+                    "link": "https://lifehacker.com/layer-your-bulbs-in-planters-to-get-months-of-flowers-1850910574"
+                },
+                {
+                    "title": "Today\u2019s NYT Connections Hints (and Answer) for Wednesday, October 11, 2023",
+                    "link": "https://lifehacker.com/nyt-connections-answer-today-october-11-2023-1850914556"
+                },
+                {
+                    "title": "The Best Bike Gear on Sale During October Prime Day",
+                    "link": "https://lifehacker.com/the-best-bike-gear-on-sale-during-october-prime-day-1850913146"
+                },
+                {
+                    "title": "The Newest Kindle Paperwhite Is 32% Off for October Prime Day",
+                    "link": "https://lifehacker.com/the-newest-kindle-paperwhite-is-32-off-for-october-pri-1850915411"
+                },
+                {
+                    "title": "These Vitamix Blenders Are Deeply Discounted for October Prime Day",
+                    "link": "https://lifehacker.com/these-vitamix-blenders-are-deeply-discounted-for-octobe-1850915653"
+                },
+                {
+                    "title": "This Kasa Smart Power Strip Is 50% Off for October Prime Day",
+                    "link": "https://lifehacker.com/this-kasa-smart-power-strip-is-50-off-for-october-prim-1850913738"
+                },
+                {
+                    "title": "The Echo Dot Is 54% Off for October Prime Day",
+                    "link": "https://lifehacker.com/the-best-prime-day-deals-on-smart-speakers-1850914061"
+                },
+                {
+                    "title": "Apple AirPods Are $89 During October Prime Day",
+                    "link": "https://lifehacker.com/apple-airpods-are-89-during-october-prime-day-1850914902"
+                },
+                {
+                    "title": "This Home Gym Equipment Generates Power While You Work Out",
+                    "link": "https://lifehacker.com/this-home-gym-equipment-generates-power-while-you-work-1850912243"
+                },
+                {
+                    "title": "The Best Deals on Pet Gear During October Prime Day",
+                    "link": "https://lifehacker.com/the-best-deals-on-pet-gear-during-october-prime-day-1850915127"
+                },
+                {
+                    "title": "The Best Chromebook Deals for October Prime Day",
+                    "link": "https://lifehacker.com/the-best-chromebook-deals-for-october-prime-day-1850913907"
+                },
+                {
+                    "title": "You Can Get $90 Off This 1TB Xbox Storage Expansion Card",
+                    "link": "https://lifehacker.com/you-can-get-90-off-this-1tb-xbox-storage-expansion-car-1850914926"
+                },
+                {
+                    "title": "You Can Get a Peloton Bike for 24% Off Today",
+                    "link": "https://lifehacker.com/peloton-sale-prime-big-deal-days-1850914135"
+                },
+                {
+                    "title": "These NordicTrack Treadmills Are 15% Off for October Prime Day",
+                    "link": "https://lifehacker.com/these-nordictrack-treadmills-are-15-off-for-october-pr-1850914396"
+                },
+                {
+                    "title": "These Sony Headphones Are $100 Off During October Prime Day",
+                    "link": "https://lifehacker.com/these-sony-headphones-are-100-off-during-october-prime-1850913257"
+                }
+            ]
+        },
+        {
+            "name": "Makeuseof",
+            "data": [
+                {
+                    "title": "How to Use ChatGPT as Your Personal Assistant for Work",
+                    "link": "https://www.makeuseof.com/use-chatgpt-as-personal-assistant-work/"
+                },
+                {
+                    "title": "How to Allow Pop-Ups in Safari",
+                    "link": "https://www.makeuseof.com/how-to-allow-pop-ups-safari/"
+                },
+                {
+                    "title": "How to Automatically Delete Old Files in Windows 10 & 11",
+                    "link": "https://www.makeuseof.com/tag/automatically-delete-old-files-windows-downloads-folder/"
+                },
+                {
+                    "title": "How to Install VST Plugins in REAPER",
+                    "link": "https://www.makeuseof.com/how-to-install-vst-plugins-in-reaper/"
+                },
+                {
+                    "title": "Casa Leo's Loo Too Review: My Cats Have a Fancier Toilet Than Me",
+                    "link": "https://www.makeuseof.com/casa-leo-leos-loo-too/"
+                },
+                {
+                    "title": "Deep vs. Dark Web: What's the Difference and Which Is Most Dangerous?",
+                    "link": "https://www.makeuseof.com/deep-vs-dark-web-which-is-most-dangerous/"
+                },
+                {
+                    "title": "The Best Subwoofers for Booming Bass",
+                    "link": "https://www.makeuseof.com/best-subwoofers/"
+                },
+                {
+                    "title": "The 5 Best YouTube Playlist Downloaders to Grab Videos in Bulk",
+                    "link": "https://www.makeuseof.com/tag/download-videos-youtube-playlist/"
+                },
+                {
+                    "title": "6 Fixes When Guided Access Is Not Working on Your iPhone",
+                    "link": "https://www.makeuseof.com/fix-guided-access-not-working-on-iphone/"
+                },
+                {
+                    "title": "How to Use Canva\u2019s Magic Design to Turn Your Ideas Into Reality",
+                    "link": "https://www.makeuseof.com/canva-how-to-use-magic-design/"
+                },
+                {
+                    "title": "How to Craft Winning Sales Presentations Using Plus AI",
+                    "link": "https://www.makeuseof.com/sales-presentations-using-plus-ai/"
+                },
+                {
+                    "title": "The Best Windows Laptops",
+                    "link": "https://www.makeuseof.com/tag/best-windows-pc-laptop/"
+                },
+                {
+                    "title": "What Is USB-C? Will It Replace All Other USB Connectors?",
+                    "link": "https://www.makeuseof.com/tag/what-is-usb-type-c/"
+                },
+                {
+                    "title": "How to Install the iOS 17, watchOS 10, and macOS Sonoma Developer Betas",
+                    "link": "https://www.makeuseof.com/how-to-install-apple-developer-beta-updates/"
+                },
+                {
+                    "title": "What Are Silent Mechanical Keyboard Switches and Do They Actually Work?",
+                    "link": "https://www.makeuseof.com/what-are-silent-mechanical-keyboard-switches/"
+                },
+                {
+                    "title": "5 Linux Lite Tips for Windows Users",
+                    "link": "https://www.makeuseof.com/linux-lite-tips-for-windows-users/"
+                },
+                {
+                    "title": "How to Implement a Day-Night Cycle in Godot",
+                    "link": "https://www.makeuseof.com/godot-day-night-cycle-how-implement/"
+                },
+                {
+                    "title": "How to Use Chatbot Arena to Compare the Best LLMs",
+                    "link": "https://www.makeuseof.com/chatbot-arena-compare-llms/"
+                },
+                {
+                    "title": "8 Possible Reasons Why You Can\u2019t Follow Someone on Instagram",
+                    "link": "https://www.makeuseof.com/reasons-why-you-cant-follow-someone-instagram/"
+                },
+                {
+                    "title": "The 10 Best Word Processing Apps for Your iPad",
+                    "link": "https://www.makeuseof.com/tag/word-processing-ipad-compare-best-apps/"
+                }
+            ]
+        },
+        {
+            "name": "CNET News",
+            "data": [
+                {
+                    "title": "October Prime Day: Live Blogging Must-Grab Amazon Deals for Day 2     - CNET",
+                    "link": "https://www.cnet.com/deals/amazon-october-prime-day-2023-live-wednesday/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Sony's Excellent New Entry-Level ANC Headphones Are $52 Off for Prime Day     - CNET",
+                    "link": "https://www.cnet.com/deals/sony-ch-720n-anc-headphones-are-on-sale-for-prime-day/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "The 15 Best Deals on Bluetooth Speakers for Amazon's October Prime Day     - CNET",
+                    "link": "https://www.cnet.com/deals/best-october-prime-day-bluetooth-speaker-deals/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best October Prime Day Laptop Deals: Save Big on MacBooks, Gaming Laptops and More     - CNET",
+                    "link": "https://www.cnet.com/deals/best-prime-day-laptop-deals-save-big-on-macbooks-gaming-laptops-and-more/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Day 2 of October Amazon Prime Day Vacuum Deals Are Here     - CNET",
+                    "link": "https://www.cnet.com/deals/the-prime-day-vacuum-deals-are-here/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best October Prime Day Mattress Deals You Won't Want to Miss     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-mattress-deals-2023/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best October Prime Day Deals on Earbuds and Headphones: New AirPods Pro 2 Dip to $189     - CNET",
+                    "link": "https://www.cnet.com/deals/best-october-2023-prime-day-earbuds-and-headphones-deals/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "60+ October Prime Day Deals You Can Still Score for $25 or Less     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-deals-under-25/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "89 October Prime Day Bargains You Can Pick Up for $50 or Less     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-deals-under-50/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "This Prime Day Grab the InfiRay P2 Pro Thermal Camera for Just $229 (Save $70)     - CNET",
+                    "link": "https://www.cnet.com/deals/this-prime-day-grab-the-infiray-p2-pro-thermal-camera-for-just-229/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best Prime Day TV Deals Right Now     - CNET",
+                    "link": "https://www.cnet.com/deals/the-best-prime-day-tv-deals/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Prime Day Price Drop: These Sony Headphones Are Back Down to Just $38     - CNET",
+                    "link": "https://www.cnet.com/deals/prime-day-price-drop-these-sony-headphones-are-back-down-to-just-38/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best Organic Mattress for 2023     - CNET",
+                    "link": "https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best Internet Providers in Kansas City, Missouri     - CNET",
+                    "link": "https://www.cnet.com/home/internet/best-internet-providers-in-kansas-city-mo/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "October Prime Day's Best Amazon Device Deals Are Live Right Now     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-amazon-device-deals/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best October Prime Day Deals You Can Grab for Under $10     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-deals-under-10/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Current Mortgage Interest Rates on Oct. 11, 2023: Touchstone Rate Dips     - CNET",
+                    "link": "https://www.cnet.com/personal-finance/mortgages/current-mortgage-interest-rates-on-oct-11-2023-touchstone-rate-dips/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Current Refinance Rates on Oct. 11, 2023: Rates Retreat     - CNET",
+                    "link": "https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-oct-11-2023-rates-retreat/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Adobe Retrained Its Generative AI, and I'm Impressed With the Upgrade     - CNET",
+                    "link": "https://www.cnet.com/tech/computing/adobe-retrained-its-generative-ai-and-im-impressed-with-the-upgrade/#ftag=CAD590a51e"
+                },
+                {
+                    "title": "Best Fitness Deals for October Prime Day Right Now     - CNET",
+                    "link": "https://www.cnet.com/deals/october-prime-day-fitness-deals-2023/#ftag=CAD590a51e"
+                }
+            ]
+        },
+        {
+            "name": "Medium",
+            "data": [
+                {
+                    "title": "Adobe Firefly 2.0 Is Here\u2014Is It Better Than Dall-E 3?",
+                    "link": "https://generativeai.pub/adobe-firefly-2-0-is-here-is-it-better-than-dall-e-3-0e385b6f170c?source=rss------technology-5"
+                },
+                {
+                    "title": "The Play-to-Earn Illusion",
+                    "link": "https://generativeai.pub/the-play-to-earn-illusion-448ebaadb687?source=rss------technology-5"
+                },
+                {
+                    "title": "Proof of News Featuring ( Israel, Bitcoin, AWS, Gaming, JFK Jr, Whitehouse, Ethereum)",
+                    "link": "https://medium.com/@PonMagazine/proof-of-news-featuring-israel-bitcoin-aws-gaming-jfk-jr-whitehouse-ethereum-47b96033b1b8?source=rss------technology-5"
+                },
+                {
+                    "title": "Navegando no Metaverso: Explorando a fronteira do real",
+                    "link": "https://medium.com/@tomazmartinelli/navegando-no-metaverso-explorando-a-fronteira-do-real-1ac486567c8a?source=rss------technology-5"
+                },
+                {
+                    "title": "I'd be happy to help you create an article for the Genie Script affiliate product. Here's a draft:",
+                    "link": "https://medium.com/@vallerielaisina02/id-be-happy-to-help-you-create-an-article-for-the-genie-script-affiliate-product-here-s-a-draft-e3f24633320d?source=rss------technology-5"
+                },
+                {
+                    "title": "Title: Embracing the Future: AI, Job Transformation, and Neural Newsletters",
+                    "link": "https://medium.com/@paullucas6809/title-embracing-the-future-ai-job-transformation-and-neural-newsletters-5384473ea272?source=rss------technology-5"
+                },
+                {
+                    "title": "Introducing RIGS Method for Goal Setting",
+                    "link": "https://jackcalvinross.medium.com/introducing-rigs-method-for-goal-setting-5a00fc2eb2ec?source=rss------technology-5"
+                },
+                {
+                    "title": "\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u062a\u0647\u0631\u0627\u0646 09037004904\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u062d\u0636\u0648\u0631\u06cc \u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0628\u0646\u062f\u0631 \u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0627\u0635\u0641\u0647\u0627\u0646 \u0645\u0645\u0647 \u06a9\u0648\u0646 \u06a9\u0648\u0633 \u062f\u0627\u0641 \u062f\u062e\u062a\u0631\u2026",
+                    "link": "https://medium.com/@mhmdyangar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-09037004904%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D9%85%D9%87-%DA%A9%D9%88%D9%86-%DA%A9%D9%88%D8%B3-%D8%AF%D8%A7%D9%81-%D8%AF%D8%AE%D8%AA%D8%B1-3d871b3bdf47?source=rss------technology-5"
+                },
+                {
+                    "title": "\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u062a\u0647\u0631\u0627\u0646 \u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u062d\u0636\u0648\u0631\u06cc \u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0628\u0646\u062f\u0631 \u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u0647 \u0627\u0635\u0641\u0647\u0627\u0646 \u0645\u0645\u0647 \u06a9\u0648\u0646 \u06a9\u0648\u0633 \u062f\u0627\u0641 \u062f\u062e\u062a\u0631 \u062f\u062e\u062a\u0631\u0627\u06cc\u0631\u0627\u0646\u06cc\u2026",
+                    "link": "https://medium.com/@mhmdyangar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A8%D9%86%D8%AF%D8%B1-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%85%D9%85%D9%87-%DA%A9%D9%88%D9%86-%DA%A9%D9%88%D8%B3-%D8%AF%D8%A7%D9%81-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-f43fe46f32b8?source=rss------technology-5"
+                },
+                {
+                    "title": "\u0634\u0645\u0627\u0631\u0647 \u062e\u0627\u0644\u064709037004904 \u062f\u0627\u0641 \u062a\u0647\u0631\u0627\u0646\u06cc \u062f\u062e\u062a\u0631 \u062f\u0627\u0641\u06a9\u062f\u0647 \u062f\u062e\u062a\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0647\u0645\u0633\u0631\u06cc\u0627\u0628\u06cc \u062f\u062e\u062a\u0631 \u062a\u0647\u0631\u0627\u0646 \u062f\u0627\u0641\u06cc_\u0646\u0627\u0632\u062f\u062e\u062a\u0631\u0627\u0646\u0647\u2026",
+                    "link": "https://medium.com/@mhmdyangar/%D8%B4%D9%85%D8%A7%D8%B1%D9%87-%D8%AE%D8%A7%D9%84%D9%8709037004904-%D8%AF%D8%A7%D9%81-%D8%AA%D9%87%D8%B1%D8%A7%D9%86%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AF%D8%A7%D9%81%DA%A9%D8%AF%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%87%D9%85%D8%B3%D8%B1%DB%8C%D8%A7%D8%A8%DB%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%AF%D8%A7%D9%81%DB%8C-%D9%86%D8%A7%D8%B2%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86%D9%87-847c4b49f5c5?source=rss------technology-5"
+                }
+            ]
+        },
+        {
+            "name": "Forbes",
+            "data": [
+                {
+                    "title": "One more way the startup world hampers women entrepreneurs",
+                    "link": "https://www.forbesindia.com/article/harvard-business-school/one-more-way-the-startup-world-hampers-women-entrepreneurs/69301/1"
+                },
+                {
+                    "title": "Another climate change fallout: India sees 4.68 lakh more lightning strikes in 2020",
+                    "link": "https://www.forbesindia.com/article/news-by-numbers/another-climate-change-fallout-india-sees-468-lakh-more-lightning-strikes-in-2020/69295/1"
+                },
+                {
+                    "title": "Byju's buys American reading app Epic for $500 million",
+                    "link": "https://www.forbesindia.com/article/special/byjus-buys-american-reading-app-epic-for-500-million/69285/1"
+                },
+                {
+                    "title": "Unpacking untold stories of India's banking ecosystem, with Tamal Bandyopadhyay",
+                    "link": "https://www.forbesindia.com/audio/from-the-bookshelves/unpacking-untold-stories-of-indias-banking-ecosystem-with-tamal-bandyopadhyay/69293"
+                },
+                {
+                    "title": "'Kids Do Need Healthy Screen Time'",
+                    "link": "https://www.forbesindia.com/article/special/kids-do-need-healthy-screen-time/69291/1"
+                },
+                {
+                    "title": "'Rick and Morty' creator makes auction debut at Sotheby's",
+                    "link": "https://www.forbesindia.com/article/forbes-lifes/rick-and-morty-creator-makes-auction-debut-at-sothebys/69289/1"
+                },
+                {
+                    "title": "LVMH takes majority stake in Virgil Abloh streetwear label Off-White",
+                    "link": "https://www.forbesindia.com/article/forbes-lifes/lvmh-takes-majority-stake-in-virgil-abloh-streetwear-label-offwhite/69283/1"
+                },
+                {
+                    "title": "Photo of the day: Eid Mubarak",
+                    "link": "https://www.forbesindia.com/article/photo-of-the-day/photo-of-the-day-eid-mubarak/69281/1"
+                },
+                {
+                    "title": "How companies are leveraging AI to personalise experiences",
+                    "link": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-companies-are-leveraging-ai-to-personalise-experiences/69277/1"
+                },
+                {
+                    "title": "The invisible hand behind the Tokyo Olympics",
+                    "link": "https://www.forbesindia.com/article/global-news/the-invisible-hand-behind-the-tokyo-olympics/69275/1"
+                },
+                {
+                    "title": "Jeff Bezos launches to space, aiming to reignite his rocket company's ambitions",
+                    "link": "https://www.forbesindia.com/article/global-news/jeff-bezos-launches-to-space-aiming-to-reignite-his-rocket-companys-ambitions/69271/1"
+                },
+                {
+                    "title": "78,533 new companies registered in 2021 so far; Maharashtra leads: Covid-19 second wave fails to dampen new founders",
+                    "link": "https://www.forbesindia.com/article/news-by-numbers/78533-new-companies-registered-in-2021-so-far-maharashtra-leads-covid19-second-wave-fails-to-dampen-new-founders/69265/1"
+                },
+                {
+                    "title": "Meet Sanjal Gavande, Indian engineer at Blue Origin shepherding Jeff Bezos' flight to space",
+                    "link": "https://www.forbesindia.com/article/news-by-numbers/meet-sanjal-gavande-indian-engineer-at-blue-origin-shepherding-jeff-bezos-flight-to-space/69263/1"
+                },
+                {
+                    "title": "Emerging job prospects in the pharmaceutical and healthcare sectors",
+                    "link": "https://www.forbesindia.com/article/jobs-of-the-next-decade/emerging-job-prospects-in-the-pharmaceutical-and-healthcare-sectors/69255/1"
+                },
+                {
+                    "title": "Has the pandemic affected your memory? Moving around might help",
+                    "link": "https://www.forbesindia.com/article/forbes-lifes/has-the-pandemic-affected-your-memory-moving-around-might-help/69257/1"
+                },
+                {
+                    "title": "Environmental concerns grow as space tourism lifts off",
+                    "link": "https://www.forbesindia.com/article/forbes-lifes/environmental-concerns-grow-as-space-tourism-lifts-off/69253/1"
+                },
+                {
+                    "title": "Photo of the day: Waving the flag",
+                    "link": "https://www.forbesindia.com/article/photo-of-the-day/photo-of-the-day-waving-the-flag/69251/1"
+                },
+                {
+                    "title": "How China transformed into a prime cyber threat to the US",
+                    "link": "https://www.forbesindia.com/article/global-news/how-china-transformed-into-a-prime-cyber-threat-to-the-us/69249/1"
+                },
+                {
+                    "title": "How the Adani Group became India's largest airport operator",
+                    "link": "https://www.forbesindia.com/article/take-one-big-story-of-the-day/how-the-adani-group-became-indias-largest-airport-operator/69245/1"
+                },
+                {
+                    "title": "Coronavirus cluster overshadows run-up to Tokyo Olympics",
+                    "link": "https://www.forbesindia.com/article/global-news/coronavirus-cluster-overshadows-runup-to-tokyo-olympics/69243/1"
+                }
+            ]
+        },
+        {
+            "name": "CNBC",
+            "data": [
+                {
+                    "title": "Wholesale inflation rose 0.5% in September, more than expected",
+                    "link": "https://www.cnbc.com/2023/10/11/ppi-september2023-.html"
+                },
+                {
+                    "title": "Exxon Mobil agrees to buy Pioneer Natural Resources for nearly $60 billion in all-stock merger",
+                    "link": "https://www.cnbc.com/2023/10/11/exxon-mobil-agrees-to-buy-pioneer-natural-resources-for-nearly-60-billion-in-all-stock-merger.html"
+                },
+                {
+                    "title": "Disney World and Disneyland raise prices for passes and tickets",
+                    "link": "https://www.cnbc.com/2023/10/11/disney-world-and-disneyland-raise-prices-for-most-tickets.html"
+                },
+                {
+                    "title": "Steve Scalise and Jim Jordan vie to become House speaker with GOP set to vote on candidate",
+                    "link": "https://www.cnbc.com/2023/10/11/steve-scalise-and-jim-jordan-vie-to-become-house-speaker-with-gop-set-to-vote-on-candidate.html"
+                },
+                {
+                    "title": "Stellantis, Samsung SDI to build $3.2 billion EV battery plant in Indiana",
+                    "link": "https://www.cnbc.com/2023/10/11/stellantis-samsung-sdi-to-build-ev-battery-plant-in-indiana.html"
+                },
+                {
+                    "title": "Period care brands August, Rael and others form coalition to fight the 'tampon tax,' reimburse consumers",
+                    "link": "https://www.cnbc.com/2023/10/11/period-care-brands-august-rael-and-others-unite-to-fight-tampon-tax.html"
+                },
+                {
+                    "title": "White House announces new efforts to crack down on 'tens of billions' in junk fees",
+                    "link": "https://www.cnbc.com/2023/10/11/white-house-announces-crack-downs-on-tens-of-billions-in-junk-fees.html"
+                },
+                {
+                    "title": "Oil prices could surge if Iran enters the war, Pioneer Natural Resources CEO says",
+                    "link": "https://www.cnbc.com/2023/10/11/pioneer-natural-resources-scott-sheffield-says-oil-prices-could-surge-if-iran-enters-the-war.html"
+                },
+                {
+                    "title": "How to donate to help victims of the Israel-Gaza crisis",
+                    "link": "https://www.cnbc.com/2023/10/11/how-to-donate-to-help-victims-of-the-israel-gaza-crisis.html"
+                },
+                {
+                    "title": "Satellite images show the scale of destruction in Gaza as Israel responds to surprise Hamas attack",
+                    "link": "https://www.cnbc.com/2023/10/11/israel-hamas-war-satellite-images-show-the-scale-of-gaza-destruction.html"
+                },
+                {
+                    "title": "Can U.S. drone makers compete with cheap, high-quality Chinese drones?",
+                    "link": "https://www.cnbc.com/2023/10/11/can-us-drone-makers-compete-with-cheap-high-quality-chinese-drones.html"
+                },
+                {
+                    "title": "Adjustable-rate mortgage demand spiked last week. Here's why.",
+                    "link": "https://www.cnbc.com/2023/10/11/adjustable-rate-mortgage-demand-spiked-last-week-heres-why.html"
+                },
+                {
+                    "title": "Amazon's Prime Big Deal Days event is here. But are the prices really that good?",
+                    "link": "https://www.cnbc.com/2023/10/11/amazon-prime-big-deal-days-are-the-prices-really-that-good.html"
+                },
+                {
+                    "title": "Jim Cramer says it's time to move on from Pioneer after $60 billion Exxon deal announcement",
+                    "link": "https://www.cnbc.com/2023/10/11/jim-cramer-says-its-time-to-move-on-from-pioneer-after-exxon-takeover.html"
+                },
+                {
+                    "title": "More than 3 million financially insecure Latinas live in states where abortion is or may be banned, study finds",
+                    "link": "https://www.cnbc.com/2023/10/11/state-abortion-restrictions-may-affect-financially-insecure-latinas.html"
+                },
+                {
+                    "title": "Jim Cramer praises Walgreens new CEO pick, says buy the stock 'perhaps aggressively'",
+                    "link": "https://www.cnbc.com/2023/10/11/jim-cramer-praises-walgreens-new-ceo-pick-says-buy-the-stock.html"
+                },
+                {
+                    "title": "Securities traders are gathering in Washington, trying to figure out what the SEC is doing",
+                    "link": "https://www.cnbc.com/2023/10/11/securities-traders-gather-in-washington-trying-to-figure-out-the-sec.html"
+                },
+                {
+                    "title": "Walgreens names veteran health-care executive Tim Wentworth as next CEO",
+                    "link": "https://www.cnbc.com/2023/10/11/walgreens-names-veteran-health-care-executive-tim-wentworth-as-next-ceo.html"
+                },
+                {
+                    "title": "How much money you need to retire comfortably in every U.S. state",
+                    "link": "https://www.cnbc.com/2023/10/11/how-much-you-need-to-retire-comfortably-in-every-state.html"
+                },
+                {
+                    "title": "Caroline Ellison took almost 30 seconds to recognize ex-boyfriend Sam Bankman-Fried as testimony begins",
+                    "link": "https://www.cnbc.com/2023/10/10/caroline-ellison-took-almost-30-seconds-to-recognize-ex-boyfriend-sbf.html"
+                }
+            ]
+        },
+        {
+            "name": "Economist",
+            "data": [
+                {
+                    "title": "Who profits most from America\u2019s baffling health-care system?",
+                    "link": "https://www.economist.com/business/2023/10/08/who-profits-most-from-americas-baffling-health-care-system"
+                },
+                {
+                    "title": "Inside the secretive business of geopolitical advice",
+                    "link": "https://www.economist.com/business/2023/10/05/inside-the-secretive-business-of-geopolitical-advice"
+                },
+                {
+                    "title": "The Indian business of blowing things up is booming",
+                    "link": "https://www.economist.com/business/2023/10/05/the-indian-business-of-blowing-things-up-is-booming"
+                },
+                {
+                    "title": "Bill Ackman wants another shot at shaking up IPOs",
+                    "link": "https://www.economist.com/business/2023/10/05/bill-ackman-wants-another-shot-at-shaking-up-ipos"
+                },
+                {
+                    "title": "How to make hot-desking work",
+                    "link": "https://www.economist.com/business/2023/10/05/how-to-make-hot-desking-work"
+                },
+                {
+                    "title": "Why companies still want in-house data centres",
+                    "link": "https://www.economist.com/business/2023/10/05/why-companies-still-want-in-house-data-centres"
+                },
+                {
+                    "title": "So long iPhone. Generative AI needs a new device",
+                    "link": "https://www.economist.com/business/2023/10/05/so-long-iphone-generative-ai-needs-a-new-device"
+                },
+                {
+                    "title": "America\u2019s bosses grapple with threats to diversity policies",
+                    "link": "https://www.economist.com/business/2023/10/02/americas-bosses-grapple-with-threats-to-diversity-policies"
+                },
+                {
+                    "title": "Can Europe\u2019s power grid cope with the green transition?",
+                    "link": "https://www.economist.com/business/2023/09/28/can-europes-power-grid-cope-with-the-green-transition"
+                },
+                {
+                    "title": "What if Hollywood blockbusters were remade as workplace dramas?",
+                    "link": "https://www.economist.com/business/2023/09/28/what-if-hollywood-blockbusters-were-remade-as-workplace-dramas"
+                },
+                {
+                    "title": "Pharma\u2019s big push for a new generation of obesity drugs",
+                    "link": "https://www.economist.com/business/2023/09/28/pharmas-big-push-for-a-new-generation-of-obesity-drugs"
+                },
+                {
+                    "title": "Customer service is getting worse\u2014and so are customers",
+                    "link": "https://www.economist.com/business/2023/09/28/customer-service-is-getting-worse-and-so-are-customers"
+                },
+                {
+                    "title": "Ties between foreign businesses and China go from bad to worse",
+                    "link": "https://www.economist.com/business/2023/09/26/ties-between-foreign-businesses-and-china-go-from-bad-to-worse"
+                },
+                {
+                    "title": "Hollywood\u2019s strike enters its final act, as writers reach a deal",
+                    "link": "https://www.economist.com/business/2023/09/25/hollywoods-strike-enters-its-final-act-as-writers-reach-a-deal"
+                },
+                {
+                    "title": "Will the auto workers\u2019 strike jeopardise Joe Biden\u2019s manufacturing boom?",
+                    "link": "https://www.economist.com/business/2023/09/24/will-the-auto-workers-strike-jeopardise-joe-bidens-manufacturing-boom"
+                },
+                {
+                    "title": "Rupert Murdoch isn\u2019t going anywhere just yet",
+                    "link": "https://www.economist.com/business/2023/09/22/rupert-murdoch-isnt-going-anywhere-just-yet"
+                },
+                {
+                    "title": "Abu Dhabi throws a surprise challenger into the AI race",
+                    "link": "https://www.economist.com/business/2023/09/21/abu-dhabi-throws-a-surprise-challenger-into-the-ai-race"
+                },
+                {
+                    "title": "California cracks down on carbon",
+                    "link": "https://www.economist.com/business/2023/09/21/california-cracks-down-on-carbon"
+                },
+                {
+                    "title": "Big pharma can\u2019t get enough of one class of cancer drugs",
+                    "link": "https://www.economist.com/business/2023/09/21/big-pharma-cant-get-enough-of-one-class-of-cancer-drugs"
+                },
+                {
+                    "title": "Why it is a bad idea for managers to attempt to engineer office friendships",
+                    "link": "https://www.economist.com/business/2023/09/21/why-it-is-a-bad-idea-for-managers-to-attempt-to-engineer-office-friendships"
+                }
+            ]
+        },
+        {
+            "name": "Business Insider",
+            "data": []
+        },
+        {
+            "name": "Market Watch",
+            "data": [
+                {
+                    "title": ": Dialysis-company stocks slide after Ozempic trial\u2019s success in treating kidney disease",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-47734F330D0E%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": ": Americans are less confident they can make the minimum payments on their credit cards, New York Fed says",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727A-88E9AF0BFC64%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "The View From Unretirement: In retirement, time is short. Don\u2019t waste it on things you hate.",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-39C43F1AD41A%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "Futures Movers: Oil prices trade lower for a second day as investors gauge Israel-Gaza war for supply threat",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-0ABBE3A886A9%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": ": \u2018Barbie\u2019 in the rear view mirror. Here\u2019s a potential red flag for a U.S. consumer spending slowdown.",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-6B98FEB7C920%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": ": 10 of the biggest bank sign-up bonuses of October 2023 \u2014 with one bank offering $25,000 for opening a new account",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727A-8255A4908A8C%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "Market Extra: \u2018When money is free, you squander it,\u2019 says former FDIC chair Sheila Bair",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-0BF612A4FC69%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "Market Snapshot: Dow rises 100 points as Treasury yields retreat despite hotter-than-expected wholesale inflation data",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-44992A77EF0F%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "Bond Report: 10-year Treasury yield falls further to two-week low despite hot producer price inflation",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-4587236071CF%7D&siteid=rss&rss=1"
+                },
+                {
+                    "title": "Need to Know: Steer clear of these stocks where the economy is in trouble, says Steve Eisman of \u2018Big Short\u2019 fame",
+                    "link": "http://www.marketwatch.com/news/story.asp?guid=%7B20C06575-04D4-B545-727B-4281A77610DD%7D&siteid=rss&rss=1"
+                }
+            ]
+        },
+        {
+            "name": "Entrepreneur",
+            "data": [
+                {
+                    "title": "How to Use Data-Driven Marketing Strategies to Maximize Your Investments",
+                    "link": "https://www.entrepreneur.com/growing-a-business/how-to-use-data-driven-marketing-strategies-to-maximize/459462"
+                },
+                {
+                    "title": "This Retiree's Yummy Hobby Is Now a Remote Side Hustle That Makes $250 an Hour: 'I Attached My Bank Account And the Money Just Flowed Automatically'",
+                    "link": "https://www.entrepreneur.com/starting-a-business/this-retirees-yummy-hobby-is-now-a-remote-side-hustle-that/463225"
+                },
+                {
+                    "title": "Get a ChatGPT Plugin for Your WordPress Site, Just $40 for Life",
+                    "link": "https://www.entrepreneur.com/science-technology/get-a-chatgpt-plugin-for-your-wordpress-site-just-40-for/463428"
+                },
+                {
+                    "title": "Microsoft (MSFT) vs. HubSpot (HUBS) \u2013 Which Software Stock Will Shine This Week?",
+                    "link": "https://www.entrepreneur.com/finance/microsoft-msft-vs-hubspot-hubs-which-software/463475"
+                },
+                {
+                    "title": "3 Compelling Energy Stocks Investors Are Buying",
+                    "link": "https://www.entrepreneur.com/finance/3-compelling-energy-stocks-investors-are-buying/463474"
+                },
+                {
+                    "title": "Master the Art of Global Tipping Etiquette",
+                    "link": "https://www.entrepreneur.com/finance/master-the-art-of-global-tipping-etiquette/463469"
+                },
+                {
+                    "title": "What War in The Middle East Means for US Stock Market",
+                    "link": "https://www.entrepreneur.com/finance/what-war-in-the-middle-east-means-for-us-stock-market/463444"
+                },
+                {
+                    "title": "Israeli Tech Leaders Are Leaving Their Businesses For Battle: 'I Want to Be Part of the People Protecting Our Country'",
+                    "link": "https://www.entrepreneur.com/business-news/israeli-tech-ceos-are-leaving-their-startups-to-join-the-war/463434"
+                },
+                {
+                    "title": "'You're Not Old Until You Act Old': Mark Cuban's Advice on How to Stay Entrepreneurial Even When Considering Retiring",
+                    "link": "https://www.entrepreneur.com/business-news/mark-cuban-says-success-is-half-random-retirement-far-off/463433"
+                },
+                {
+                    "title": "This Is the Heaviest Pumpkin in the World \u2014 And Its Grower Won $30,000 for Setting the World Record",
+                    "link": "https://www.entrepreneur.com/business-news/gigantic-pumpkin-sets-world-record-grower-wins-30000/463423"
+                },
+                {
+                    "title": "Disney Under Fire for Allegedly Using AI in Promotional Materials for Disney+ Show",
+                    "link": "https://www.entrepreneur.com/business-news/disney-accused-of-using-ai-imagery-for-loki-promo/463422"
+                },
+                {
+                    "title": "Web Design in the Experience Economy \u2014 How to Create Memorable and Interactive Experiences for Your Audience",
+                    "link": "https://www.entrepreneur.com/starting-a-business/how-to-ensure-your-website-succeeds-in-the-experience/459463"
+                },
+                {
+                    "title": "High Mortgage Rates Are Fueling Record Housing Pessimism\u2014So Why Are Experts Saying Now Is the Time to Buy?",
+                    "link": "https://www.entrepreneur.com/business-news/housing-market-pessimism-peaks-due-to-high-mortgage-rates/463421"
+                },
+                {
+                    "title": "How Pivoting Saved My Business When Things Didn't Go According to Plan",
+                    "link": "https://www.entrepreneur.com/growing-a-business/how-pivoting-saved-my-first-business-from-failing/462882"
+                },
+                {
+                    "title": "Online Merchants Are Losing Significant Revenue With This Billing Mistake \u2014 Are You Guilty?",
+                    "link": "https://www.entrepreneur.com/growing-a-business/how-a-bad-billing-descriptor-can-cost-you/454954"
+                }
+            ]
+        },
+        {
+            "name": "Wall Street Journal",
+            "data": [
+                {
+                    "title": "A Bigger World Bank Takes on China's Clout",
+                    "link": "https://www.wsj.com/articles/a-bigger-world-bank-takes-on-chinas-clout-e8c1f046"
+                },
+                {
+                    "title": "House Republicans to Choose Between Scalise and Jordan for Speaker Nominee",
+                    "link": "https://www.wsj.com/articles/republican-speaker-vote-jim-jordan-stevescalise-2419cbf6"
+                },
+                {
+                    "title": "How Scientists Plan to Save Infrastructure From Catastrophic Solar Storms",
+                    "link": "https://www.wsj.com/articles/how-scientists-plan-to-save-infrastructure-from-catastrophic-solar-storms-a09660d6"
+                },
+                {
+                    "title": "Princeton Is the Top Ivy in the WSJ/College Pulse Ranking",
+                    "link": "https://www.wsj.com/articles/princeton-top-ivy-wsj-college-pulse-ranking-fc87fdd5"
+                },
+                {
+                    "title": "U.S. Stocks Up After Wholesale Inflation Report",
+                    "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-higher-open-349286cf"
+                },
+                {
+                    "title": "As Israel Strikes Gaza, Fears of Humanitarian Disaster Mount",
+                    "link": "https://www.wsj.com/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3"
+                },
+                {
+                    "title": "Today's Logistics Report: Warehouses Seeking Gig Workers; Boeing's Supply Chain Turbulence",
+                    "link": "https://createsend.com/t/d-3077E598750676E22540EF23F30FEDED"
+                },
+                {
+                    "title": "Scene of Massacre Becomes Staging Ground for Israel's Invasion of Gaza. 'I Am Looking for Revenge.'",
+                    "link": "https://www.wsj.com/articles/at-kibbutz-where-hamas-killed-dozens-israeli-troops-gather-to-respond-c6ab0707"
+                },
+                {
+                    "title": "Disney Raises Prices at Its Theme Parks",
+                    "link": "https://www.wsj.com/articles/disney-raises-prices-as-its-theme-parks-ec4c8cf4"
+                },
+                {
+                    "title": "The Morning Risk Report",
+                    "link": "https://createsend.com/t/d-0D14E0B9AF5051C72540EF23F30FEDED"
+                },
+                {
+                    "title": "A Gilded Age is Fading for Luxury Brands",
+                    "link": "https://www.wsj.com/articles/a-gilded-age-is-fading-for-luxury-brands-d9f09242"
+                },
+                {
+                    "title": "'Revenge Travel' Boom Shows Signs of Slowing",
+                    "link": "https://www.wsj.com/articles/the-revenge-travel-boom-shows-signs-of-slowing-27f9735d"
+                },
+                {
+                    "title": "China's Country Garden Wilts",
+                    "link": "https://www.wsj.com/articles/chinas-country-garden-wilts-44528f19"
+                },
+                {
+                    "title": "Euro Stabilizes, But Is More Likely to Fall Than Rise in Coming Days",
+                    "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-on-largely-lower-treasury-yields-e5f5d93d"
+                },
+                {
+                    "title": "Natural Gas Prices Decline After 6-Session Rally",
+                    "link": "https://www.wsj.com/articles/natural-gas-prices-pull-back-following-surge-acb11c8d"
+                },
+                {
+                    "title": "U.S. Grapples With Political Gridlock as Crises Mount",
+                    "link": "https://www.wsj.com/articles/u-s-grapples-with-political-gridlock-as-crises-mount-be179aca"
+                }
+            ]
+        },
+        {
+            "name": "Financial Times",
+            "data": [
+                {
+                    "title": "A Bigger World Bank Takes on China's Clout",
+                    "link": "https://www.wsj.com/articles/a-bigger-world-bank-takes-on-chinas-clout-e8c1f046"
+                },
+                {
+                    "title": "House Republicans to Choose Between Scalise and Jordan for Speaker Nominee",
+                    "link": "https://www.wsj.com/articles/republican-speaker-vote-jim-jordan-stevescalise-2419cbf6"
+                },
+                {
+                    "title": "How Scientists Plan to Save Infrastructure From Catastrophic Solar Storms",
+                    "link": "https://www.wsj.com/articles/how-scientists-plan-to-save-infrastructure-from-catastrophic-solar-storms-a09660d6"
+                },
+                {
+                    "title": "Princeton Is the Top Ivy in the WSJ/College Pulse Ranking",
+                    "link": "https://www.wsj.com/articles/princeton-top-ivy-wsj-college-pulse-ranking-fc87fdd5"
+                },
+                {
+                    "title": "U.S. Stocks Up After Wholesale Inflation Report",
+                    "link": "https://www.wsj.com/articles/australia-stock-futures-pointing-to-higher-open-349286cf"
+                },
+                {
+                    "title": "As Israel Strikes Gaza, Fears of Humanitarian Disaster Mount",
+                    "link": "https://www.wsj.com/articles/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3"
+                },
+                {
+                    "title": "Today's Logistics Report: Warehouses Seeking Gig Workers; Boeing's Supply Chain Turbulence",
+                    "link": "https://createsend.com/t/d-3077E598750676E22540EF23F30FEDED"
+                },
+                {
+                    "title": "Scene of Massacre Becomes Staging Ground for Israel's Invasion of Gaza. 'I Am Looking for Revenge.'",
+                    "link": "https://www.wsj.com/articles/at-kibbutz-where-hamas-killed-dozens-israeli-troops-gather-to-respond-c6ab0707"
+                },
+                {
+                    "title": "Disney Raises Prices at Its Theme Parks",
+                    "link": "https://www.wsj.com/articles/disney-raises-prices-as-its-theme-parks-ec4c8cf4"
+                },
+                {
+                    "title": "The Morning Risk Report",
+                    "link": "https://createsend.com/t/d-0D14E0B9AF5051C72540EF23F30FEDED"
+                },
+                {
+                    "title": "A Gilded Age is Fading for Luxury Brands",
+                    "link": "https://www.wsj.com/articles/a-gilded-age-is-fading-for-luxury-brands-d9f09242"
+                },
+                {
+                    "title": "'Revenge Travel' Boom Shows Signs of Slowing",
+                    "link": "https://www.wsj.com/articles/the-revenge-travel-boom-shows-signs-of-slowing-27f9735d"
+                },
+                {
+                    "title": "China's Country Garden Wilts",
+                    "link": "https://www.wsj.com/articles/chinas-country-garden-wilts-44528f19"
+                },
+                {
+                    "title": "Euro Stabilizes, But Is More Likely to Fall Than Rise in Coming Days",
+                    "link": "https://www.wsj.com/articles/most-asian-currencies-strengthen-on-largely-lower-treasury-yields-e5f5d93d"
+                },
+                {
+                    "title": "Natural Gas Prices Decline After 6-Session Rally",
+                    "link": "https://www.wsj.com/articles/natural-gas-prices-pull-back-following-surge-acb11c8d"
+                },
+                {
+                    "title": "U.S. Grapples With Political Gridlock as Crises Mount",
+                    "link": "https://www.wsj.com/articles/u-s-grapples-with-political-gridlock-as-crises-mount-be179aca"
+                }
+            ]
+        },
+        {
+            "name": "Investing",
+            "data": [
+                {
+                    "title": "Cement stock jumps up to 4% after company reports 50% increase in production & sales in Q2",
+                    "link": "https://in.investing.com/news/cement-stock-jumps-up-to-4-after-company-reports-50-increase-in-production--sales-in-q2-3845140"
+                },
+                {
+                    "title": "KPIT Tech shares hit yearly high following Goldman Sachs' persistent 'buy' rating",
+                    "link": "https://in.investing.com/news/kpit-tech-shares-hit-yearly-high-following-goldman-sachs-persistent-buy-rating-3845010"
+                },
+                {
+                    "title": "Equity mutual funds record significant net inflows in Sep",
+                    "link": "https://in.investing.com/news/equity-mutual-funds-record-significant-net-inflows-in-sep-3845137"
+                },
+                {
+                    "title": "Indian equities rebound, TCS earnings anticipated, as Bank of Baroda onboarding halted",
+                    "link": "https://in.investing.com/news/indian-equities-rebound-tcs-earnings-anticipated-as-bank-of-baroda-onboarding-halted-3845025"
+                },
+                {
+                    "title": "Wipro leads Sensex rally",
+                    "link": "https://in.investing.com/news/wipro-leads-sensex-rally-3844869"
+                },
+                {
+                    "title": "Oil bobs in the green, awaiting US stockpiles data and other catalysts",
+                    "link": "https://in.investing.com/news/oil-bobs-in-the-green-awaiting-us-stockpiles-data-and-other-catalysts-3844764"
+                },
+                {
+                    "title": "India's economic strides lauded by World Bank's chief economist, warns of imminent global slowdown",
+                    "link": "https://in.investing.com/news/indias-economic-strides-lauded-by-world-banks-chief-economist-warns-of-imminent-global-slowdown-3844684"
+                },
+                {
+                    "title": "RBI bars Bank of Baroda from more customers on bob World app (Ld)",
+                    "link": "https://in.investing.com/news/rbi-bars-bank-of-baroda-from-more-customers-on-bob-world-app-ld-3844090"
+                },
+                {
+                    "title": "India's economic outlook brightens amid global stimuli, despite potential threats",
+                    "link": "https://in.investing.com/news/indias-economic-outlook-brightens-amid-global-stimuli-despite-potential-threats-3844806"
+                },
+                {
+                    "title": "India's energy demands bound to grow exponentially in coming years: Hardeep Puri",
+                    "link": "https://in.investing.com/news/indias-energy-demands-bound-to-grow-exponentially-in-coming-years-hardeep-puri-3843392"
+                }
+            ]
+        },
+        {
+            "name": "Designer News",
+            "data": [
+                {
+                    "title": "Cost to develop a healthcare app like ZocDoc",
+                    "link": "https://www.designernews.co/stories/136249-cost-to-develop-a-healthcare-app-like-zocdoc"
+                },
+                {
+                    "title": "Finance Landing Page Design",
+                    "link": "https://www.designernews.co/stories/136243-finance-landing-page-design"
+                },
+                {
+                    "title": "How to Design an Interactive Bottom Nav in Figma | Beginners Tutorial",
+                    "link": "https://www.designernews.co/stories/136234-how-to-design-an-interactive-bottom-nav-in-figma--beginners-tutorial"
+                },
+                {
+                    "title": "Free Stock Footage",
+                    "link": "https://www.designernews.co/stories/136242-free-stock-footage"
+                },
+                {
+                    "title": "Free Download High-Quality Logos",
+                    "link": "https://www.designernews.co/stories/136241-free-download-highquality-logos"
+                },
+                {
+                    "title": "Cost to develop app like Practo",
+                    "link": "https://www.designernews.co/stories/136212-cost-to-develop-app-like-practo"
+                },
+                {
+                    "title": "Guide to Fix Your Email Deliverability Issues",
+                    "link": "https://www.designernews.co/stories/136233-guide-to-fix-your-email-deliverability-issues"
+                },
+                {
+                    "title": "GriddyIcons - Truly unique icon set",
+                    "link": "https://www.designernews.co/stories/136211-griddyicons--truly-unique-icon-set"
+                },
+                {
+                    "title": "Real Estate Landing Page",
+                    "link": "https://www.designernews.co/stories/136208-real-estate-landing-page"
+                },
+                {
+                    "title": "Movie Posters with DALL-E 3",
+                    "link": "https://www.designernews.co/stories/136209-movie-posters-with-dalle-3"
+                },
+                {
+                    "title": "Banking app design inspiration",
+                    "link": "https://www.designernews.co/stories/136204-banking-app-design-inspiration"
+                },
+                {
+                    "title": "Deploy The Power of Technology & Bring Your Vision to Reality Using JavaScript",
+                    "link": "https://www.designernews.co/stories/136206-deploy-the-power-of-technology--bring-your-vision-to-reality-using-javascript"
+                },
+                {
+                    "title": "Rust Development Company",
+                    "link": "https://www.designernews.co/stories/136197-rust-development-company"
+                },
+                {
+                    "title": "The Guide to Figma Resources: Free Website Templates, Plugins, and UI Elements",
+                    "link": "https://www.designernews.co/stories/136202-the-guide-to-figma-resources-free-website-templates-plugins-and-ui-elements"
+                },
+                {
+                    "title": "Generate Dynamic Open Graph and Twitter Images in Next.js",
+                    "link": "https://www.designernews.co/stories/136195-generate-dynamic-open-graph-and-twitter-images-in-nextjs"
+                },
+                {
+                    "title": "Interior Design Landing Page",
+                    "link": "https://www.designernews.co/stories/136193-interior-design-landing-page"
+                },
+                {
+                    "title": "Framer Individual Page Password Protector",
+                    "link": "https://www.designernews.co/stories/136190-framer-individual-page-password-protector"
+                },
+                {
+                    "title": "10 Ways Mobile Retailing Will Transform Your Business",
+                    "link": "https://www.designernews.co/stories/136188-10-ways-mobile-retailing-will-transform-your-business"
+                },
+                {
+                    "title": "Write for us \u2013 Web Design & Development",
+                    "link": "https://www.designernews.co/stories/136189-write-for-us--web-design--development"
+                },
+                {
+                    "title": "Sales Automation SaaS Landing Page",
+                    "link": "https://www.designernews.co/stories/136187-sales-automation-saas-landing-page"
+                }
+            ]
+        },
+        {
+            "name": "UX Planet",
+            "data": [
+                {
+                    "title": "Stoicism and UX Design: the best mind-hack to change your work",
+                    "link": "https://uxplanet.org/stoicism-and-ux-design-the-best-mind-hack-to-change-your-work-cda77dff6f0e?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "Where do product designers get inspiration?",
+                    "link": "https://uxplanet.org/where-do-product-designers-get-inspiration-fe0806275cb8?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "5 \u201cnon-obvious\u201d books for the next UX Designers",
+                    "link": "https://uxplanet.org/5-non-obvious-books-for-the-next-ux-designers-4213791643ca?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "How to Receive Design Feedback Correctly",
+                    "link": "https://uxplanet.org/how-to-receive-design-feedback-correctly-44adb6a87b35?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "37 Innovative Ways to Use Accent Colors: Visual Guide",
+                    "link": "https://uxplanet.org/where-to-use-accent-colors-in-ui-here-are-38-ways-with-brilliant-examples-353b02c77d95?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "UI/UX Design: Content Matters More",
+                    "link": "https://uxplanet.org/ui-ux-design-content-matters-more-0d3cf122b621?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "Take your design to the next level with these 9 Chat GPT prompts",
+                    "link": "https://uxplanet.org/take-your-design-to-the-next-level-with-these-9-chat-gpt-prompts-1273ac0c0391?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "5 Trendy New UX/UI Tools in October",
+                    "link": "https://uxplanet.org/5-trendy-new-ux-ui-tools-in-october-79aad91aee8d?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "UX for mobile apps vs. web: Navigating two digital worlds",
+                    "link": "https://uxplanet.org/ux-for-mobile-apps-vs-web-navigating-two-digital-worlds-406340cc91ed?source=rss----819cc2aaeee0---4"
+                },
+                {
+                    "title": "Finding Your Voice as a Junior Product Designer in a Remote Working Environment",
+                    "link": "https://uxplanet.org/finding-your-voice-as-a-junior-product-designer-in-a-remote-working-environment-1d0fb26a0f1f?source=rss----819cc2aaeee0---4"
+                }
+            ]
+        },
+        {
+            "name": "UX Design",
+            "data": [
+                {
+                    "title": "Here\u2019s why UX teams need visual and spatial thinkers alike",
+                    "link": "https://uxdesign.cc/heres-why-ux-teams-need-visual-and-spatial-thinkers-alike-ce5dc00ab6b1?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "What\u2019s the point of AI without Design and Systems Thinking?",
+                    "link": "https://uxdesign.cc/whats-the-point-of-ai-without-design-and-systems-thinking-7f9a2eb8a1c9?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "Sacred interfaces: the Shinto inspiration for design systems",
+                    "link": "https://uxdesign.cc/sacred-interfaces-the-shinto-inspiration-for-design-systems-42d78d58a4bf?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "How I learned to stop worrying and love Machine Learning",
+                    "link": "https://uxdesign.cc/product-design-in-the-age-of-ai-how-i-learned-to-stop-worrying-and-love-machine-learning-d90def2d3a6f?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "AR for everyone: How to build accessible augmented reality UX",
+                    "link": "https://uxdesign.cc/ar-for-everyone-how-to-build-accessible-augmented-reality-experiences-d6248b1a371a?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "We\u2019re turning designers into factory workers",
+                    "link": "https://uxdesign.cc/were-turning-designers-into-factory-workers-a7471daaf6fd?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "The negative impact of persuasive design",
+                    "link": "https://uxdesign.cc/the-negative-impact-of-persuasive-design-dd57eb88834b?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "Simplified Figma color variables based on HSB interpolation",
+                    "link": "https://uxdesign.cc/simplified-figma-color-variables-based-on-hsb-interpolation-c3e404585176?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "Writing to inspire an audience of creative thinkers",
+                    "link": "https://uxdesign.cc/writing-to-inspire-an-audience-of-creative-thinkers-6b659c520eab?source=rss----138adf9c44c---4"
+                },
+                {
+                    "title": "How to define color usage through semantic sets for design systems",
+                    "link": "https://uxdesign.cc/how-to-define-color-usage-through-semantic-sets-for-design-systems-99445804233d?source=rss----138adf9c44c---4"
+                }
+            ]
+        },
+        {
+            "name": "UX Booth",
+            "data": [
+                {
+                    "title": "My Journey into Voice Prototyping",
+                    "link": "https://feedpress.me/link/7644/15098196/my-journey-into-voice-prototyping"
+                },
+                {
+                    "title": "API, CLI, GUI, oh my! Understanding User Behavior Across Surfaces",
+                    "link": "https://feedpress.me/link/7644/15082604/api-cli-gui-oh-my-understanding-user-behavior-across-surfaces"
+                },
+                {
+                    "title": "Remote User Interviewing Basics",
+                    "link": "https://feedpress.me/link/7644/15050542/remote-user-interviewing-basics"
+                },
+                {
+                    "title": "Make Defaults More Effective by Harnessing These 3 Factors",
+                    "link": "https://feedpress.me/link/7644/15033923/make-defaults-more-effective-by-harnessing-these-three-factors"
+                },
+                {
+                    "title": "Newbie Heuristic Evaluation Mistakes To Avoid",
+                    "link": "https://feedpress.me/link/7644/15016866/newbie-heuristic-evaluation-mistakes-to-avoid"
+                },
+                {
+                    "title": "RelationshipOps: An Emerging Aspect of ResearchOps",
+                    "link": "https://feedpress.me/link/7644/14988969/relationshipops-an-emerging-aspect-of-researchops"
+                },
+                {
+                    "title": "It Starts with a Conversation: A Guide to Interviewing UX Candidates",
+                    "link": "https://feedpress.me/link/7644/14969294/it-starts-with-a-conversation-a-guide-to-interviewing-ux-candidates"
+                },
+                {
+                    "title": "Considerations for A Multilingual Content Strategy",
+                    "link": "https://feedpress.me/link/7644/14954266/considerations-for-a-multilingual-content-strategy"
+                },
+                {
+                    "title": "Optimizing the Intranet Employee User Experience",
+                    "link": "https://feedpress.me/link/7644/14891876/optimizing-the-intranet-employee-user-experience"
+                },
+                {
+                    "title": "What Rage Clicks Can Tell Us About User Experience",
+                    "link": "https://feedpress.me/link/7644/14876618/what-rage-clicks-can-tell-us-about-user-experience"
+                }
+            ]
+        },
+        {
+            "name": "UX Movement",
+            "data": [
+                {
+                    "title": "1 Text Field vs 118 Option Select Menu",
+                    "link": "https://uxmovement.com/forms/1-text-field-vs-118-option-select-menu/"
+                },
+                {
+                    "title": "Why \u201cConfirm Password\u201d Is the Slowest Field to Fill Out",
+                    "link": "https://uxmovement.com/forms/why-confirm-password-is-the-slowest-field-to-fill-out/"
+                },
+                {
+                    "title": "How to Use Placeholder Hints for Better Form Input",
+                    "link": "https://uxmovement.com/forms/how-to-use-placeholder-hints-for-better-form-input/"
+                },
+                {
+                    "title": "How to Simplify a Long 15-Option Settings Page",
+                    "link": "https://uxmovement.com/forms/how-to-simplify-a-long-15-option-settings-page/"
+                },
+                {
+                    "title": "The Best UX Design for Form Field Help Text",
+                    "link": "https://uxmovement.com/forms/the-best-ux-design-for-form-field-help-text/"
+                }
+            ]
+        },
+        {
+            "name": "Design Shack",
+            "data": [
+                {
+                    "title": "70+ Best Watercolor Photoshop Actions & Effects 2023",
+                    "link": "https://designshack.net/articles/inspiration/best-watercolor-photoshop-actions/"
+                },
+                {
+                    "title": "5 Key Takeaways From Adobe MAX 2023: What You Need to Know",
+                    "link": "https://designshack.net/articles/software/adobe-max-2023/"
+                },
+                {
+                    "title": "25+ Best Happy Birthday Fonts (+ Birthday Cake Fonts!)",
+                    "link": "https://designshack.net/articles/inspiration/happy-birthday-fonts/"
+                },
+                {
+                    "title": "70+ Best CV & Resume Templates 2023",
+                    "link": "https://designshack.net/articles/inspiration/the-best-cv-resume-templates-50-examples/"
+                },
+                {
+                    "title": "25+ Best Figma App Templates",
+                    "link": "https://designshack.net/articles/inspiration/figma-app-templates/"
+                },
+                {
+                    "title": "35+ Best Marker Fonts for Creative Typography 2023",
+                    "link": "https://designshack.net/articles/inspiration/marker-fonts/"
+                },
+                {
+                    "title": "25+ Best Viking Fonts (Viking Rune, Norse Fonts + More)",
+                    "link": "https://designshack.net/articles/inspiration/viking-fonts/"
+                },
+                {
+                    "title": "5 Artful Advantages of Using .ART Domains",
+                    "link": "https://designshack.net/articles/reviews/art-domain-names/"
+                },
+                {
+                    "title": "20+ Halloween Pumpkin Carving Ideas for Graphic Designers",
+                    "link": "https://designshack.net/articles/inspiration/halloween-pumpkin-ideas/"
+                },
+                {
+                    "title": "10 Best Typography Websites to Explore for Font Inspiration",
+                    "link": "https://designshack.net/articles/inspiration/font-inspiration-websites/"
+                },
+                {
+                    "title": "Halloween Graphic Design: 10 Spooky Tips & Ideas",
+                    "link": "https://designshack.net/articles/inspiration/halloween-graphic-design/"
+                },
+                {
+                    "title": "25+ Best Spring Fonts (+ Spring Break Typefaces)",
+                    "link": "https://designshack.net/articles/inspiration/spring-fonts/"
+                },
+                {
+                    "title": "30+ Best Comic Book Style Photoshop Actions (+ Pop Art Actions)",
+                    "link": "https://designshack.net/articles/inspiration/comic-book-pop-art-photoshop-actions/"
+                },
+                {
+                    "title": "25+ Best Sweater & Sweatshirt Mockups (Free & Pro)",
+                    "link": "https://designshack.net/articles/inspiration/sweater-sweatshirt-mockups/"
+                },
+                {
+                    "title": "20+ Best Fonts Similar to Gotham",
+                    "link": "https://designshack.net/articles/inspiration/fonts-similar-to-gotham/"
+                }
+            ]
+        },
+        {
+            "name": "Speckyboy",
+            "data": [
+                {
+                    "title": "The Unpredictable Life of a Freelance Web Designer",
+                    "link": "https://speckyboy.com/unpredictable-life-freelance-web-designer/"
+                },
+                {
+                    "title": "Where Does Dreamweaver Fit in Modern Web Design?",
+                    "link": "https://speckyboy.com/where-does-dreamweaver-fit-in-modern-web-design/"
+                },
+                {
+                    "title": "Weekly News for Designers \u2116 715",
+                    "link": "https://speckyboy.com/weekly-news-for-designers-715/"
+                },
+                {
+                    "title": "How to Build a 404 Page with the WordPress Site Editor",
+                    "link": "https://speckyboy.com/404-page-wordpress-site-editor/"
+                },
+                {
+                    "title": "The Impossible Question: How Long Does It Take to Build a Website?",
+                    "link": "https://speckyboy.com/how-long-does-it-take-to-build-a-website/"
+                },
+                {
+                    "title": "Here\u2019s What It Was like to Build a Website in the 90s",
+                    "link": "https://speckyboy.com/90s-build-website/"
+                },
+                {
+                    "title": "Weekly News for Designers \u2116 714",
+                    "link": "https://speckyboy.com/weekly-news-for-designers-714/"
+                },
+                {
+                    "title": "The Difference Between Cheap & Budget Clients",
+                    "link": "https://speckyboy.com/difference-cheap-budget-client/"
+                },
+                {
+                    "title": "50+ Best Branding Identity Mockup Templates in 2023",
+                    "link": "https://speckyboy.com/branding-mockup-templates/"
+                },
+                {
+                    "title": "Is the \u2018Fast & Cheap\u2019 Website Still Realistic?",
+                    "link": "https://speckyboy.com/is-the-fast-cheap-website-still-realistic/"
+                }
+            ]
+        },
+        {
+            "name": "Designmodo",
+            "data": [
+                {
+                    "title": "The Guide to Figma Resources: Free Website Templates, Plugins, and UI Elements",
+                    "link": "https://designmodo.com/figma-resources/"
+                },
+                {
+                    "title": "Halloween Emails: The Ultimate Marketing Guide With Examples",
+                    "link": "https://designmodo.com/halloween-email-newsletters/"
+                },
+                {
+                    "title": "Free Halloween Email Newsletter Templates",
+                    "link": "https://designmodo.com/halloween-email-templates/"
+                },
+                {
+                    "title": "October Email Newsletter Guide: Ideas and Examples",
+                    "link": "https://designmodo.com/october-newsletter-ideas/"
+                },
+                {
+                    "title": "The Essential 8: A WordPress Plugins List for 2023",
+                    "link": "https://designmodo.com/wordpress-plugins-list-2023/"
+                },
+                {
+                    "title": "LimeWire Reinvents Itself as an AI-Focused Publishing Platform",
+                    "link": "https://designmodo.com/limewire-review/"
+                },
+                {
+                    "title": "19 Top Tools & Resources for Web Designers in 2023",
+                    "link": "https://designmodo.com/web-design-resources-2023/"
+                },
+                {
+                    "title": "How to Export Figma to HTML, Best Free Plugins",
+                    "link": "https://designmodo.com/figma-to-html/"
+                },
+                {
+                    "title": "20 Figma Fonts to Try This Year",
+                    "link": "https://designmodo.com/figma-fonts/"
+                },
+                {
+                    "title": "Examples and Ideas for Fall Email Newsletters",
+                    "link": "https://designmodo.com/fall-email-newsletters/"
+                },
+                {
+                    "title": "Top 18 AI Tools for Marketers to Try in 2023",
+                    "link": "https://designmodo.com/ai-tools-marketers/"
+                },
+                {
+                    "title": "What is an Email Footer? The Ultimate Guide with Examples",
+                    "link": "https://designmodo.com/email-footer/"
+                },
+                {
+                    "title": "How to Drive Transactional Email Engagement for E-Commerce",
+                    "link": "https://designmodo.com/transactional-email-engagement/"
+                },
+                {
+                    "title": "Email Marketing Campaign Pre-Launch [Checklist]",
+                    "link": "https://designmodo.com/email-marketing-checklist/"
+                },
+                {
+                    "title": "Email Subject Lines: Ultimate Guide of Examples and Ideas",
+                    "link": "https://designmodo.com/email-subject-lines/"
+                },
+                {
+                    "title": "Improve Your Email Campaigns with These Fantastic Tools",
+                    "link": "https://designmodo.com/improve-email-campaign-tools/"
+                },
+                {
+                    "title": "How to Write an Upsell Email to Increase Average Order Size",
+                    "link": "https://designmodo.com/upsell-emails/"
+                },
+                {
+                    "title": "Back to School Email Newsletter Examples and Marketing Tips",
+                    "link": "https://designmodo.com/back-school-emails/"
+                },
+                {
+                    "title": "Best Better Stack Alternatives in 2023",
+                    "link": "https://designmodo.com/betterstack-alternatives/"
+                },
+                {
+                    "title": "Best Privacy-Focused Alternatives to Google Analytics",
+                    "link": "https://designmodo.com/google-analytics-alternatives/"
+                }
+            ]
+        },
+        {
+            "name": "UXPin",
+            "data": []
+        }
+    ],
+    "bitcoin": "NULL",
+    "available_stories": ["Technology", "Design", "Business"]
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import './AppLoader.css';
-import { FaCog, FaSpinner, FaSync, FaSyncAlt, FaAtom, FaSpider } from 'react-icons/fa';
+import { FaSpinner } from 'react-icons/fa';
 
 export class AppLoader extends React.Component {
     render () {
@@ -10,7 +10,7 @@ export class AppLoader extends React.Component {
                     DevStory
                 </div>
                 <div className="AppLoader-gif">
-                    <FaSpinner rotat/>
+                    <FaSpinner />
                 </div>
             </div>
         )

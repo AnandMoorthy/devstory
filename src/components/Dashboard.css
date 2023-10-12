@@ -1,12 +1,12 @@
 .App-daymode {
   position: absolute;
-  background-color: rgb(255, 255, 255);
+  background-color: #eee;
   height: 100% !important;
 }
 
 .App-nightmode {
   position: absolute;
-  background-color: rgb(92, 68, 68);
+  background-color: #2e2e2e;
   height: 100% !important;
 }
 
@@ -16,15 +16,14 @@
 }
 
 .D-header {
-  padding: 0 6em;
   display: flex;
   justify-content: space-between;
-}
-
-.D-right {
-  display: flex;
-  flex-direction: row;
-  justify-items: flex-end;
+  align-items: center;
+  /* padding-right: 3.5em;
+  padding-top: 1em; */
+  padding: 0 3vw;
+  padding-top: 0.5em;
+  height: 6vh;
 }
 
 .D-center {
@@ -34,49 +33,49 @@
   text-align: center;
 }
 
-.D-center-appname {
-  color: tomato;
-  font-size: 1.2em;
-}
-/* .D-left {
-  float: left;
+.D-right {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
 
-.D-right {
-  float: right;
+.D-left {
   display: flex;
+  align-items: center;
   flex-direction: row;
-} */
+}
 
 .Dashboard-header-bitcoin-logo {
-  padding: 0.4em 0em;
-  color: #D4AF37;
-  font-size: 1.2em;
+  color: #d4af37;
+  font-size: 1.3em;
+  padding-top: 0.2em;
 }
 
 .Dashboard-header-bitcoin-price {
-  padding: 0.5em 0em;
   padding-left: 0.2em;
   color: gray;
   font-size: 1em;
+  font-weight: 600;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .Dashboard-header-time {
-  padding: 0.5em 0em;
   padding-right: 0.8em;
-  color: rgb(45, 197, 52)
+  color: rgb(45, 197, 52);
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 .Dashboard-header-settings {
-  padding: 0.5em 1.2em;
   color: tomato;
   font-size: 1.2em;
   cursor: pointer;
+  /* padding: 0 2em; */
 }
 
 .Dashboard-header-open-settings {
   display: flex;
   flex-direction: row;
+  padding-top: 0.2em;
 }
 
 .Dashboard-header-settings-close {
@@ -87,45 +86,106 @@ Dashboard-header-settings-close:hover {
   color: tomato;
 }
 
-.Dashboard-header-settings-about {
-  font-size: 0.8em;
-  padding: 0em 0.5em;
-  padding-left: 1em;
+.Dashboard-header {
+  display: flex;
+  position: relative;
   color: gray;
+  font-size: 0.8em;
+}
+
+.Dashboard-header-settings-about {
+  padding-right: 1em;
+}
+
+.Dashboard-header-settings-extension {
+  padding-right: 1em;
+}
+
+.Dashboard-header-settings-extension-content {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  background-color: #ffffff;
+  min-width: 3em;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+  padding: 0.5em 1em 0.5em 1em;
+  border-radius: 0.2em;
+}
+
+.Dashboard-header-extension-content-list {
+  padding: 0.3em 0em;
+  color: gray;
+  text-decoration: none;
+}
+
+.Dashboard-header-extension-content-list:hover {
+  color: tomato;
 }
 
 .Dashboard-header-settings-about:hover {
   color: tomato;
 }
 
+.Dashboard-header-settings-extension:hover {
+  color: tomato;
+}
+
+.Dashboard-header-settings-extension:hover
+  .Dashboard-header-settings-extension-content {
+  display: flex;
+}
+
 .Dashboard-header-settings-icon {
   color: darkgray;
   font-size: 0.8em;
-  padding: 0em 1em;
-  padding-top: 0.15em;
-  padding-left: 0.5em;
+  /* padding: 0em 1em; */
+  padding-top: 0.2em;
+  /* padding-left: 0.5em; */
 }
 
 .Dashboard-header-settings-icon-sun {
-  color: wheat
+  color: wheat;
 }
 
 .Dashboard-header-settings-icon-moon {
-  color: black
+  color: black;
 }
 
-.Dashboard-cards {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    padding: 0em 1em;
+.Dashboard-cards-nightmode {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0em 3vw;
+  background-color: #2e2e2e;
+  height: 100%;
 }
 
+.Dashboard-cards-daymode {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0em 3vw;
+  background-color: #eee;
+  height: 100%;
+}
 
-.Dashboard-footer {
+.Dashboard-footer-nightmode {
   display: flex;
   justify-content: center;
+  align-items: center;
+  background-color: #2e2e2e;
+  height: 3.5vh;
+}
+
+.Dashboard-footer-daymode {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #eee;
+  height: 3.5vh;
 }
 
 .Dashboard-love-box {
@@ -134,21 +194,102 @@ Dashboard-header-settings-close:hover {
   flex-direction: row;
 }
 
-.Dashboard-footer-text{
-  padding: 0em 0.3em;
+.Dashboard-footer-text {
+  /* padding: 0em 0.3em; */
 }
 
 .Dashboard-footer-text-nightmode {
   color: wheat;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .Dashboard-footer-text-daymode {
   color: gray;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 .Dashboard-footer-icon {
-  color: #FE0000;
+  color: #fe0000;
   padding-top: 0.1em;
   padding-left: 0.5em;
-  font-size: 1em;
+  font-size: 14px;
+}
+
+/* Media queries */
+@media only screen and (max-width: 500px) {
+  .Dashboard-footer-nightmode {
+    height: 5vh;
+  }
+  .Dashboard-footer-daymode {
+    height: 5vh;
+  }
+  .Dashboard-header-settings-about {
+    display: none;
+  }
+  .Dashboard-header-settings-extension {
+    display: none;
+  }
+  .Dashboard-header-time {
+    display: none;
+  }
+  .Dashboard-header-settings-icon {
+    font-size: 1em;
+    padding-right: 2em;
+    padding-top: 0.2em;
+  }
+  .Dashboard-header-settings-close {
+    padding-top: 0.2em;
+  }
+  .Dashboard-cards-nightmode {
+    padding: 0 5vw;
+  }
+  .Dashboard-cards-daymode {
+    padding: 0 5vw;
+  }
+  .D-header {
+    padding: 0 6vw;
+  }
+  .Dashboard-footer-nightmode {
+    padding-bottom: 1em;
+  }
+  .Dashboard-footer-daymode {
+    padding-bottom: 1em;
+  }
+}
+
+@media only screen and (min-width: 500px) and (max-width: 1000px) {
+  .Dashboard-footer-nightmode {
+    padding-bottom: 1em;
+  }
+  .Dashboard-footer-daymode {
+    padding-bottom: 1em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .D-header {
+    height: 8vh;
+  }
+  .Dashboard-header-bitcoin-price {
+    font-size: 0.95em;
+  }
+  .Dashboard-header-bitcoin-logo {
+    font-size: 1.1em;
+  }
+}
+
+@media only screen and (min-width: 1800px) {
+  .Dashboard-header-time {
+    font-size: 1.2em;
+  }
+
+  .Dashboard-header-bitcoin-price {
+    font-size: 1.1em;
+  }
+
+  .Dashboard-header {
+    font-size: 0.9em;
+  }
 }

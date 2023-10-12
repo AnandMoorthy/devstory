@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "DevStory",
+  "name": "Top News and Atricles around the world for you",
   "icons": [
     {
       "src": "favicon.ico",
